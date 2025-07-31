@@ -1,0 +1,1001 @@
+date,location,time_since_fire,ndvi,ndvi_pre_fire,ndvi_post_fire,temperature,rainfall,soil_moisture,burn_severity,vegetation_type,slope_and_elevation,vegetation_recovery_rate
+2023-08-14,Simlipal Biosphere Reserve,44.7,0.764,0.756,0.634,33.7,350.6,0.31,17,Shrubland,Low-Mid-altitude,100.0
+2021-09-20,Kaziranga National Park,4.9,0.566,0.651,0.462,21.5,58.1,0.46,26,Shrubland,Steep-Mid-altitude,55.03
+2016-05-19,Kaziranga National Park,30.1,0.555,0.816,0.519,16.5,245.4,0.2,47,Wetland,Steep-Lowland,12.12
+2019-01-08,Anamalai Tiger Reserve,58.2,0.754,0.575,0.234,11.2,471.4,0.44,95,Grassland,Low-Highland,100.0
+2016-02-27,Sundarbans,39.5,0.572,0.683,0.318,14.6,476.1,0.37,46,Shrubland,Moderate-Lowland,69.59
+2022-03-15,Melghat Forest,25.8,0.867,0.63,0.285,17.6,312.8,0.47,43,Shrubland,Steep-Lowland,100.0
+2017-01-01,Bandipur National Park,18.4,0.335,0.735,0.36,34.2,428.6,0.46,79,Shrubland,Low-Lowland,0.0
+2019-08-17,Sundarbans,3.5,0.517,0.518,0.077,12.8,71.6,0.13,80,Shrubland,Steep-Lowland,99.77
+2016-01-29,Kanha National Park,18.6,0.603,0.72,0.263,33.9,173.7,0.38,0,Forest,Steep-Mid-altitude,74.4
+2016-04-24,Bandipur National Park,33.7,0.573,0.81,0.63,10.1,79.2,0.46,26,Shrubland,Low-Lowland,0.0
+2020-06-27,Sundarbans,2.1,0.777,0.515,0.079,25.5,125.5,0.42,80,Grassland,Steep-Mid-altitude,100.0
+2016-03-02,Kaziranga National Park,11.6,0.555,0.776,0.356,16.4,304.6,0.1,11,Grassland,Moderate-Mid-altitude,47.38
+2015-04-28,Melghat Forest,32.8,0.328,0.784,0.314,15.9,416.5,0.44,58,Grassland,Moderate-Mid-altitude,2.98
+2018-09-08,Simlipal Biosphere Reserve,6.1,0.444,0.584,0.155,35.3,492.2,0.32,50,Forest,Low-Highland,67.37
+2015-08-21,Simlipal Biosphere Reserve,44.9,0.874,0.713,0.518,34.1,178.9,0.13,31,Shrubland,Steep-Lowland,100.0
+2018-08-08,Simlipal Biosphere Reserve,11.7,0.712,0.616,0.152,29.8,217.4,0.37,58,Wetland,Moderate-Lowland,100.0
+2019-09-22,Bandipur National Park,46.8,0.895,0.874,0.749,20.5,6.6,0.42,27,Forest,Steep-Highland,100.0
+2019-05-27,Kaziranga National Park,28.1,0.364,0.543,0.092,21.8,217.7,0.17,4,Forest,Low-Lowland,60.31
+2021-12-16,Melghat Forest,14.1,0.423,0.638,0.32,10.1,342.0,0.42,59,Wetland,Moderate-Mid-altitude,32.39
+2019-05-23,Anamalai Tiger Reserve,3.1,0.253,0.609,0.257,21.7,417.0,0.44,22,Wetland,Low-Lowland,0.0
+2020-04-24,Anamalai Tiger Reserve,24.0,0.459,0.884,0.773,14.3,177.5,0.3,7,Forest,Low-Highland,0.0
+2021-12-30,Kanha National Park,21.2,0.613,0.598,0.354,37.7,180.1,0.44,45,Forest,Low-Mid-altitude,100.0
+2023-03-25,Sundarbans,59.8,0.31,0.878,0.745,39.3,22.0,0.13,72,Shrubland,Moderate-Mid-altitude,0.0
+2018-07-04,Anamalai Tiger Reserve,52.9,0.347,0.592,0.116,12.6,28.8,0.39,24,Shrubland,Steep-Lowland,48.53
+2018-09-11,Sundarbans,13.2,0.425,0.532,0.167,39.3,402.1,0.46,10,Shrubland,Moderate-Mid-altitude,70.68
+2019-05-04,Bandipur National Park,7.7,0.447,0.749,0.568,10.3,480.1,0.29,21,Forest,Moderate-Lowland,0.0
+2018-05-20,Saranda Forest,6.8,0.326,0.649,0.195,19.1,163.0,0.25,62,Wetland,Low-Highland,28.85
+2016-04-05,Melghat Forest,51.6,0.23,0.579,0.182,39.1,5.5,0.43,31,Grassland,Moderate-Lowland,12.09
+2017-12-17,Saranda Forest,41.1,0.596,0.724,0.374,25.4,162.2,0.21,6,Forest,Steep-Highland,63.43
+2020-03-10,Bandipur National Park,19.9,0.47,0.758,0.618,36.3,77.1,0.16,42,Forest,Low-Lowland,0.0
+2015-02-12,Kaziranga National Park,39.2,0.564,0.821,0.363,22.4,62.7,0.48,38,Shrubland,Steep-Lowland,43.89
+2019-07-09,Melghat Forest,55.7,0.78,0.793,0.414,19.3,364.3,0.11,14,Grassland,Moderate-Highland,96.57
+2018-11-01,Kaziranga National Park,58.1,0.296,0.818,0.468,15.2,103.8,0.18,1,Grassland,Moderate-Highland,0.0
+2017-09-20,Bandipur National Park,21.3,0.358,0.707,0.352,11.2,492.4,0.2,87,Grassland,Steep-Mid-altitude,1.69
+2018-06-29,Saranda Forest,19.3,0.839,0.785,0.655,24.4,470.7,0.49,80,Wetland,Low-Mid-altitude,100.0
+2021-03-14,Anamalai Tiger Reserve,10.8,0.31,0.802,0.353,18.3,332.1,0.16,46,Shrubland,Low-Highland,0.0
+2020-05-02,Anamalai Tiger Reserve,1.0,0.578,0.85,0.397,23.9,97.9,0.48,98,Grassland,Low-Mid-altitude,39.96
+2015-11-17,Kanha National Park,13.2,0.526,0.59,0.421,30.8,78.4,0.26,57,Grassland,Steep-Mid-altitude,62.13
+2020-07-27,Kanha National Park,59.8,0.537,0.606,0.474,21.8,463.7,0.49,47,Grassland,Moderate-Mid-altitude,47.73
+2018-06-14,Saranda Forest,19.8,0.549,0.794,0.355,14.6,146.4,0.28,3,Wetland,Low-Highland,44.19
+2022-01-06,Bandipur National Park,52.5,0.358,0.674,0.312,16.9,467.8,0.21,41,Shrubland,Low-Highland,12.71
+2016-10-08,Melghat Forest,48.6,0.873,0.613,0.465,33.4,335.8,0.26,79,Wetland,Steep-Lowland,100.0
+2018-11-16,Bandipur National Park,23.6,0.215,0.59,0.452,16.3,361.2,0.45,22,Forest,Steep-Lowland,0.0
+2020-11-22,Saranda Forest,51.4,0.614,0.779,0.672,22.2,365.2,0.14,25,Forest,Low-Lowland,0.0
+2018-10-09,Saranda Forest,39.3,0.233,0.852,0.458,16.7,86.3,0.37,99,Grassland,Low-Lowland,0.0
+2020-11-11,Melghat Forest,37.4,0.531,0.584,0.474,39.5,86.6,0.3,47,Shrubland,Steep-Lowland,51.82
+2019-09-18,Saranda Forest,9.5,0.881,0.618,0.239,28.0,255.4,0.44,6,Shrubland,Moderate-Highland,100.0
+2017-09-30,Bandipur National Park,24.4,0.272,0.791,0.666,12.3,494.8,0.44,47,Wetland,Low-Mid-altitude,0.0
+2021-12-26,Anamalai Tiger Reserve,25.3,0.389,0.871,0.676,35.8,310.3,0.17,95,Forest,Low-Highland,0.0
+2019-09-11,Bandipur National Park,39.5,0.441,0.822,0.499,38.7,484.3,0.2,57,Grassland,Moderate-Lowland,0.0
+2020-09-10,Kaziranga National Park,58.1,0.58,0.535,0.107,22.9,96.4,0.26,58,Shrubland,Low-Highland,100.0
+2020-09-10,Kanha National Park,56.8,0.277,0.871,0.49,25.2,235.5,0.18,25,Forest,Moderate-Lowland,0.0
+2022-03-14,Kaziranga National Park,38.3,0.235,0.719,0.556,33.5,108.1,0.37,91,Shrubland,Moderate-Highland,0.0
+2023-11-02,Simlipal Biosphere Reserve,5.7,0.68,0.857,0.686,38.3,44.7,0.16,18,Grassland,Moderate-Mid-altitude,0.0
+2021-04-11,Kaziranga National Park,43.7,0.789,0.811,0.47,29.7,274.7,0.22,70,Forest,Low-Lowland,93.55
+2021-03-19,Bandipur National Park,4.8,0.679,0.897,0.604,11.6,78.2,0.11,51,Wetland,Moderate-Mid-altitude,25.6
+2022-08-13,Bandipur National Park,31.8,0.203,0.823,0.456,18.8,476.3,0.5,49,Wetland,Low-Mid-altitude,0.0
+2019-12-20,Anamalai Tiger Reserve,25.4,0.548,0.855,0.74,23.6,475.9,0.1,100,Shrubland,Moderate-Highland,0.0
+2021-12-09,Kaziranga National Park,55.4,0.291,0.501,0.224,12.9,372.3,0.32,10,Shrubland,Steep-Lowland,24.19
+2020-09-15,Saranda Forest,53.3,0.477,0.687,0.369,37.3,368.1,0.46,90,Forest,Low-Lowland,33.96
+2015-12-23,Kaziranga National Park,54.2,0.861,0.883,0.576,39.2,108.1,0.21,99,Forest,Moderate-Mid-altitude,92.83
+2023-01-10,Melghat Forest,52.9,0.776,0.565,0.193,30.2,406.4,0.45,38,Forest,Steep-Mid-altitude,100.0
+2023-01-19,Simlipal Biosphere Reserve,23.4,0.377,0.717,0.483,13.0,203.5,0.13,37,Shrubland,Moderate-Mid-altitude,0.0
+2021-03-13,Melghat Forest,54.6,0.303,0.699,0.525,29.8,95.9,0.38,71,Forest,Moderate-Mid-altitude,0.0
+2016-01-05,Bandipur National Park,4.2,0.227,0.873,0.432,38.8,107.6,0.45,38,Grassland,Steep-Mid-altitude,0.0
+2017-08-23,Bandipur National Park,31.0,0.265,0.672,0.337,24.6,40.3,0.26,21,Shrubland,Moderate-Mid-altitude,0.0
+2016-09-23,Sundarbans,45.0,0.675,0.704,0.367,13.5,124.1,0.38,28,Forest,Moderate-Mid-altitude,91.39
+2015-08-23,Kanha National Park,18.2,0.649,0.777,0.527,36.3,133.8,0.11,50,Shrubland,Steep-Mid-altitude,48.8
+2016-10-22,Saranda Forest,30.6,0.269,0.877,0.45,21.3,391.9,0.18,43,Grassland,Low-Lowland,0.0
+2018-11-15,Anamalai Tiger Reserve,57.9,0.586,0.567,0.349,28.4,281.1,0.45,23,Forest,Steep-Highland,100.0
+2015-04-28,Anamalai Tiger Reserve,56.3,0.868,0.744,0.362,33.5,309.9,0.42,66,Shrubland,Moderate-Lowland,100.0
+2016-07-16,Simlipal Biosphere Reserve,24.8,0.663,0.619,0.46,28.7,190.1,0.34,67,Wetland,Steep-Lowland,100.0
+2020-06-13,Kanha National Park,59.2,0.521,0.577,0.375,12.0,498.5,0.48,35,Grassland,Moderate-Mid-altitude,72.28
+2023-09-29,Saranda Forest,13.8,0.547,0.837,0.546,39.3,115.6,0.43,88,Wetland,Steep-Highland,0.34
+2022-10-05,Sundarbans,18.7,0.391,0.632,0.499,28.4,491.0,0.28,85,Grassland,Steep-Lowland,0.0
+2015-10-21,Simlipal Biosphere Reserve,56.6,0.68,0.692,0.464,29.1,435.0,0.46,52,Shrubland,Steep-Highland,94.74
+2021-05-29,Anamalai Tiger Reserve,5.9,0.468,0.682,0.359,14.5,86.8,0.29,86,Grassland,Steep-Highland,33.75
+2022-01-14,Melghat Forest,8.5,0.745,0.601,0.37,14.4,346.1,0.31,70,Grassland,Low-Mid-altitude,100.0
+2015-09-11,Kaziranga National Park,43.8,0.469,0.6,0.336,39.4,70.1,0.29,53,Forest,Steep-Lowland,50.38
+2015-06-11,Bandipur National Park,19.2,0.787,0.657,0.498,38.8,49.1,0.27,78,Grassland,Low-Mid-altitude,100.0
+2017-10-03,Kanha National Park,50.1,0.497,0.622,0.389,39.9,418.8,0.28,42,Grassland,Steep-Mid-altitude,46.35
+2017-11-15,Sundarbans,57.2,0.621,0.535,0.239,21.2,335.7,0.47,95,Shrubland,Steep-Highland,100.0
+2019-06-17,Saranda Forest,50.5,0.442,0.787,0.669,29.5,406.4,0.43,84,Grassland,Low-Highland,0.0
+2019-12-07,Melghat Forest,9.3,0.576,0.654,0.33,20.5,131.8,0.25,84,Wetland,Low-Lowland,75.93
+2023-02-05,Sundarbans,15.3,0.346,0.533,0.386,38.5,412.2,0.38,13,Forest,Low-Lowland,0.0
+2020-06-30,Sundarbans,55.1,0.595,0.555,0.339,32.1,394.6,0.21,2,Wetland,Low-Highland,100.0
+2023-07-09,Melghat Forest,48.1,0.636,0.686,0.456,21.0,268.0,0.22,2,Wetland,Low-Lowland,78.26
+2016-01-06,Kaziranga National Park,3.9,0.38,0.755,0.631,37.5,309.4,0.17,50,Shrubland,Low-Mid-altitude,0.0
+2022-02-14,Anamalai Tiger Reserve,11.3,0.319,0.794,0.552,25.9,280.3,0.5,73,Shrubland,Low-Lowland,0.0
+2015-11-05,Sundarbans,43.1,0.844,0.828,0.715,15.7,439.4,0.22,99,Grassland,Low-Lowland,100.0
+2023-01-29,Saranda Forest,12.7,0.401,0.706,0.387,24.9,226.2,0.19,13,Forest,Moderate-Lowland,4.39
+2017-03-18,Bandipur National Park,29.7,0.41,0.694,0.531,11.1,237.5,0.18,7,Grassland,Steep-Highland,0.0
+2018-09-25,Sundarbans,40.4,0.555,0.507,0.4,12.4,134.9,0.48,93,Grassland,Moderate-Lowland,100.0
+2015-06-09,Anamalai Tiger Reserve,50.6,0.498,0.899,0.559,31.9,34.8,0.12,48,Grassland,Steep-Highland,0.0
+2021-09-13,Sundarbans,6.1,0.633,0.709,0.215,15.7,467.6,0.3,14,Wetland,Low-Mid-altitude,84.62
+2022-09-03,Kanha National Park,8.2,0.605,0.798,0.486,16.5,373.4,0.2,11,Forest,Moderate-Lowland,38.14
+2021-05-16,Simlipal Biosphere Reserve,42.3,0.805,0.702,0.497,26.1,356.1,0.43,74,Grassland,Low-Lowland,100.0
+2021-07-13,Sundarbans,26.0,0.643,0.639,0.368,18.2,187.0,0.27,67,Wetland,Steep-Lowland,100.0
+2018-02-25,Kaziranga National Park,32.2,0.549,0.577,0.352,27.1,266.9,0.22,73,Forest,Moderate-Mid-altitude,87.56
+2023-08-25,Kanha National Park,7.9,0.58,0.784,0.514,37.5,38.5,0.32,52,Forest,Moderate-Highland,24.44
+2017-10-02,Kaziranga National Park,44.1,0.617,0.706,0.219,25.6,195.3,0.46,82,Grassland,Moderate-Mid-altitude,81.72
+2018-01-27,Simlipal Biosphere Reserve,16.9,0.585,0.637,0.174,14.1,105.3,0.25,15,Shrubland,Steep-Highland,88.77
+2015-10-22,Kanha National Park,3.3,0.792,0.722,0.614,13.1,341.7,0.21,35,Forest,Low-Highland,100.0
+2020-10-08,Sundarbans,1.9,0.427,0.653,0.422,16.8,451.4,0.38,84,Wetland,Steep-Highland,2.16
+2023-07-05,Kanha National Park,20.5,0.449,0.736,0.245,17.9,159.2,0.47,39,Grassland,Moderate-Lowland,41.55
+2015-03-24,Saranda Forest,3.8,0.716,0.625,0.268,18.5,441.6,0.48,20,Forest,Steep-Lowland,100.0
+2017-03-04,Anamalai Tiger Reserve,53.4,0.749,0.684,0.235,23.8,178.7,0.39,20,Forest,Steep-Lowland,100.0
+2019-03-04,Saranda Forest,10.1,0.838,0.857,0.56,28.8,355.2,0.26,25,Shrubland,Moderate-Lowland,93.6
+2017-06-24,Anamalai Tiger Reserve,45.9,0.823,0.759,0.54,36.8,67.7,0.48,70,Forest,Moderate-Lowland,100.0
+2015-12-16,Sundarbans,9.5,0.769,0.786,0.402,23.4,26.6,0.49,45,Grassland,Moderate-Lowland,95.57
+2022-07-22,Bandipur National Park,12.5,0.819,0.861,0.402,16.9,64.3,0.2,87,Forest,Steep-Lowland,90.85
+2021-07-03,Kaziranga National Park,13.9,0.9,0.821,0.527,21.9,272.0,0.24,2,Grassland,Low-Highland,100.0
+2019-09-28,Sundarbans,48.6,0.325,0.879,0.471,33.4,170.1,0.38,36,Grassland,Moderate-Mid-altitude,0.0
+2017-04-13,Kanha National Park,12.5,0.591,0.524,0.242,30.9,53.0,0.3,58,Forest,Moderate-Lowland,100.0
+2018-11-24,Bandipur National Park,20.1,0.435,0.749,0.325,32.0,258.8,0.15,31,Grassland,Moderate-Lowland,25.94
+2022-09-08,Kaziranga National Park,6.9,0.295,0.536,0.082,26.0,77.6,0.16,38,Forest,Moderate-Lowland,46.92
+2016-04-16,Sundarbans,21.3,0.518,0.863,0.453,17.1,114.6,0.23,60,Forest,Low-Highland,15.85
+2015-12-08,Melghat Forest,27.8,0.592,0.624,0.329,38.9,355.4,0.2,26,Forest,Moderate-Mid-altitude,89.15
+2017-10-23,Kanha National Park,21.1,0.692,0.526,0.209,23.2,319.5,0.48,89,Grassland,Steep-Mid-altitude,100.0
+2017-02-07,Kanha National Park,19.0,0.527,0.544,0.22,12.5,220.6,0.41,91,Wetland,Moderate-Highland,94.75
+2023-10-04,Bandipur National Park,23.9,0.756,0.677,0.423,24.2,38.8,0.39,28,Shrubland,Steep-Mid-altitude,100.0
+2023-05-23,Saranda Forest,2.8,0.375,0.588,0.104,32.0,357.4,0.37,91,Grassland,Low-Lowland,55.99
+2020-08-24,Melghat Forest,5.0,0.321,0.56,0.146,10.0,161.4,0.16,87,Grassland,Steep-Highland,42.27
+2017-03-12,Melghat Forest,3.0,0.24,0.549,0.372,11.9,188.4,0.46,96,Forest,Low-Lowland,0.0
+2022-09-29,Anamalai Tiger Reserve,50.8,0.605,0.88,0.748,22.5,153.7,0.34,79,Forest,Low-Lowland,0.0
+2020-07-31,Simlipal Biosphere Reserve,34.2,0.887,0.558,0.448,27.8,356.3,0.18,100,Wetland,Moderate-Highland,100.0
+2022-05-10,Melghat Forest,21.5,0.607,0.882,0.745,24.0,283.1,0.23,12,Wetland,Steep-Mid-altitude,0.0
+2019-03-12,Kanha National Park,25.3,0.726,0.622,0.16,23.3,484.0,0.34,0,Wetland,Steep-Mid-altitude,100.0
+2015-07-19,Sundarbans,50.0,0.592,0.857,0.739,20.2,24.8,0.35,51,Wetland,Moderate-Highland,0.0
+2020-12-22,Sundarbans,7.7,0.209,0.863,0.673,14.4,278.9,0.39,32,Forest,Low-Lowland,0.0
+2021-03-27,Saranda Forest,14.7,0.385,0.804,0.681,39.4,379.3,0.28,97,Shrubland,Steep-Highland,0.0
+2022-01-14,Sundarbans,31.0,0.625,0.722,0.534,34.4,365.2,0.38,32,Wetland,Steep-Lowland,48.4
+2016-03-27,Kanha National Park,15.0,0.332,0.836,0.659,35.8,13.6,0.37,85,Forest,Moderate-Highland,0.0
+2020-04-16,Kanha National Park,1.0,0.758,0.899,0.787,24.6,272.5,0.42,48,Shrubland,Steep-Highland,0.0
+2019-03-12,Kanha National Park,1.4,0.769,0.824,0.416,12.1,489.2,0.36,58,Grassland,Steep-Highland,86.52
+2020-07-21,Anamalai Tiger Reserve,21.0,0.276,0.575,0.162,10.3,90.4,0.43,24,Forest,Moderate-Lowland,27.6
+2020-01-20,Simlipal Biosphere Reserve,21.3,0.88,0.645,0.257,24.6,265.6,0.11,25,Shrubland,Low-Lowland,100.0
+2020-12-26,Simlipal Biosphere Reserve,35.1,0.598,0.523,0.093,10.8,200.5,0.13,67,Wetland,Moderate-Lowland,100.0
+2016-05-20,Melghat Forest,17.4,0.374,0.803,0.4,13.8,450.0,0.32,50,Forest,Low-Lowland,0.0
+2018-02-17,Sundarbans,41.9,0.622,0.754,0.261,17.5,389.4,0.18,20,Grassland,Low-Highland,73.23
+2015-09-11,Saranda Forest,24.9,0.707,0.716,0.569,28.9,122.3,0.33,78,Forest,Moderate-Mid-altitude,93.88
+2015-02-05,Saranda Forest,24.0,0.806,0.666,0.555,34.6,437.4,0.49,63,Wetland,Steep-Highland,100.0
+2018-10-12,Simlipal Biosphere Reserve,59.4,0.411,0.689,0.571,15.5,403.6,0.42,27,Wetland,Low-Mid-altitude,0.0
+2020-10-02,Kaziranga National Park,52.3,0.631,0.528,0.155,38.8,168.6,0.36,94,Shrubland,Low-Lowland,100.0
+2015-07-09,Simlipal Biosphere Reserve,38.8,0.82,0.823,0.403,12.7,478.4,0.42,30,Wetland,Steep-Mid-altitude,99.29
+2022-05-26,Simlipal Biosphere Reserve,45.9,0.467,0.54,0.241,29.1,303.2,0.49,19,Shrubland,Steep-Mid-altitude,75.59
+2018-09-25,Kaziranga National Park,38.2,0.612,0.673,0.466,31.4,39.4,0.2,96,Wetland,Moderate-Highland,70.53
+2017-10-25,Kaziranga National Park,43.9,0.693,0.868,0.404,14.8,183.3,0.33,47,Forest,Low-Mid-altitude,62.28
+2017-04-06,Bandipur National Park,35.1,0.219,0.55,0.195,24.4,375.0,0.43,71,Forest,Steep-Highland,6.76
+2015-10-15,Kaziranga National Park,52.8,0.633,0.778,0.575,10.0,53.6,0.49,64,Shrubland,Low-Mid-altitude,28.57
+2023-06-05,Kanha National Park,34.8,0.528,0.631,0.239,24.7,88.9,0.46,13,Wetland,Steep-Lowland,73.72
+2019-10-27,Anamalai Tiger Reserve,27.5,0.485,0.638,0.2,12.4,235.7,0.42,80,Forest,Low-Mid-altitude,65.07
+2016-09-02,Saranda Forest,43.9,0.268,0.869,0.678,11.5,122.7,0.31,41,Shrubland,Steep-Mid-altitude,0.0
+2019-08-13,Saranda Forest,11.0,0.467,0.616,0.473,28.8,351.8,0.31,2,Forest,Low-Highland,0.0
+2019-07-25,Saranda Forest,38.6,0.487,0.79,0.368,19.0,276.8,0.3,17,Wetland,Moderate-Mid-altitude,28.2
+2015-10-19,Sundarbans,28.0,0.848,0.752,0.295,37.8,138.3,0.19,82,Grassland,Steep-Highland,100.0
+2023-03-17,Kaziranga National Park,58.2,0.78,0.591,0.468,31.6,390.0,0.2,97,Forest,Low-Mid-altitude,100.0
+2017-04-17,Anamalai Tiger Reserve,19.9,0.317,0.719,0.377,23.4,143.2,0.11,95,Forest,Low-Highland,0.0
+2022-03-03,Melghat Forest,5.8,0.875,0.837,0.553,38.4,363.5,0.22,48,Wetland,Low-Mid-altitude,100.0
+2021-03-31,Melghat Forest,50.2,0.848,0.568,0.395,37.3,76.7,0.37,43,Shrubland,Moderate-Mid-altitude,100.0
+2017-08-29,Melghat Forest,9.5,0.445,0.799,0.351,17.6,481.0,0.23,54,Forest,Moderate-Lowland,20.98
+2017-04-07,Bandipur National Park,34.8,0.612,0.74,0.286,34.1,288.6,0.2,39,Wetland,Steep-Lowland,71.81
+2019-07-06,Saranda Forest,31.0,0.625,0.668,0.303,34.6,280.4,0.19,98,Wetland,Low-Highland,88.22
+2019-11-03,Kanha National Park,4.2,0.482,0.674,0.196,29.5,328.2,0.24,75,Wetland,Moderate-Highland,59.83
+2017-02-17,Anamalai Tiger Reserve,48.0,0.695,0.619,0.221,37.1,331.6,0.32,24,Shrubland,Low-Lowland,100.0
+2017-12-07,Bandipur National Park,24.5,0.314,0.879,0.556,27.1,63.5,0.16,49,Forest,Low-Lowland,0.0
+2020-04-10,Sundarbans,45.9,0.791,0.673,0.51,36.3,218.3,0.37,93,Shrubland,Moderate-Lowland,100.0
+2023-09-22,Bandipur National Park,9.5,0.479,0.522,0.176,38.5,219.4,0.48,51,Grassland,Steep-Highland,87.57
+2016-11-21,Kaziranga National Park,33.9,0.379,0.702,0.496,21.2,464.2,0.16,53,Forest,Moderate-Highland,0.0
+2018-05-06,Bandipur National Park,40.6,0.541,0.603,0.301,32.4,372.7,0.13,10,Shrubland,Low-Highland,79.47
+2015-10-20,Simlipal Biosphere Reserve,25.8,0.686,0.834,0.545,30.8,109.2,0.49,15,Wetland,Steep-Mid-altitude,48.79
+2020-11-24,Melghat Forest,28.4,0.466,0.553,0.324,36.3,232.8,0.27,54,Wetland,Moderate-Highland,62.01
+2016-06-06,Melghat Forest,27.4,0.731,0.781,0.385,25.0,314.8,0.29,86,Shrubland,Steep-Mid-altitude,87.37
+2016-09-19,Kanha National Park,38.9,0.488,0.612,0.405,17.6,95.3,0.22,83,Forest,Moderate-Highland,40.1
+2016-02-10,Melghat Forest,48.9,0.613,0.562,0.383,27.8,248.6,0.32,49,Grassland,Steep-Highland,100.0
+2017-03-24,Kanha National Park,13.6,0.481,0.739,0.365,28.4,164.6,0.15,32,Grassland,Low-Lowland,31.02
+2022-06-01,Sundarbans,30.8,0.727,0.576,0.296,39.6,246.1,0.1,47,Wetland,Steep-Lowland,100.0
+2018-07-18,Bandipur National Park,20.4,0.232,0.824,0.487,19.1,195.0,0.27,37,Forest,Moderate-Lowland,0.0
+2021-06-21,Bandipur National Park,5.5,0.796,0.632,0.189,37.1,416.9,0.43,8,Grassland,Steep-Highland,100.0
+2017-12-27,Sundarbans,55.5,0.201,0.567,0.135,21.4,196.2,0.35,65,Grassland,Moderate-Mid-altitude,15.28
+2017-09-13,Bandipur National Park,29.8,0.268,0.879,0.496,36.5,311.0,0.41,27,Wetland,Steep-Highland,0.0
+2023-09-19,Bandipur National Park,50.0,0.822,0.711,0.557,21.2,495.7,0.26,48,Grassland,Low-Highland,100.0
+2022-04-20,Saranda Forest,19.9,0.401,0.575,0.087,12.2,487.2,0.2,78,Shrubland,Steep-Highland,64.34
+2020-06-24,Kaziranga National Park,33.0,0.368,0.72,0.509,22.5,107.9,0.22,37,Grassland,Steep-Mid-altitude,0.0
+2018-02-13,Sundarbans,18.8,0.487,0.853,0.715,10.0,14.5,0.23,88,Wetland,Steep-Highland,0.0
+2017-07-03,Kanha National Park,5.0,0.809,0.686,0.378,28.6,53.1,0.31,90,Shrubland,Low-Lowland,100.0
+2019-02-01,Bandipur National Park,5.0,0.347,0.643,0.35,34.8,135.0,0.45,52,Shrubland,Low-Highland,0.0
+2019-02-26,Kaziranga National Park,22.4,0.566,0.652,0.356,21.4,250.1,0.35,95,Forest,Low-Mid-altitude,70.95
+2017-12-12,Sundarbans,36.5,0.459,0.544,0.203,21.2,128.9,0.13,80,Wetland,Moderate-Highland,75.07
+2016-10-25,Saranda Forest,14.4,0.68,0.852,0.547,25.8,65.8,0.36,95,Forest,Moderate-Lowland,43.61
+2017-06-22,Kanha National Park,8.8,0.488,0.619,0.396,23.2,452.2,0.14,38,Wetland,Moderate-Lowland,41.26
+2016-07-21,Sundarbans,29.3,0.365,0.744,0.357,23.9,32.5,0.23,45,Shrubland,Moderate-Lowland,2.07
+2016-02-13,Saranda Forest,26.0,0.661,0.584,0.463,23.1,423.1,0.29,7,Shrubland,Steep-Lowland,100.0
+2021-12-02,Kaziranga National Park,22.7,0.86,0.583,0.333,36.6,260.6,0.14,42,Wetland,Low-Mid-altitude,100.0
+2021-06-07,Kaziranga National Park,22.1,0.647,0.786,0.307,29.9,205.5,0.12,26,Forest,Low-Lowland,70.98
+2015-06-30,Sundarbans,16.4,0.669,0.588,0.172,11.2,262.4,0.35,46,Shrubland,Moderate-Highland,100.0
+2018-01-17,Bandipur National Park,57.3,0.854,0.871,0.762,19.7,334.5,0.45,47,Grassland,Steep-Highland,84.4
+2020-12-03,Bandipur National Park,18.6,0.552,0.702,0.377,18.7,391.5,0.28,11,Grassland,Moderate-Highland,53.85
+2022-03-26,Kaziranga National Park,8.5,0.462,0.532,0.274,34.2,10.3,0.26,75,Shrubland,Steep-Mid-altitude,72.87
+2017-03-06,Kaziranga National Park,10.6,0.688,0.602,0.5,23.1,404.6,0.25,1,Forest,Low-Highland,100.0
+2017-10-13,Sundarbans,14.4,0.69,0.722,0.443,29.2,142.4,0.21,94,Grassland,Low-Lowland,88.53
+2023-05-17,Melghat Forest,52.6,0.463,0.897,0.706,25.2,7.3,0.17,83,Forest,Low-Lowland,0.0
+2022-10-09,Simlipal Biosphere Reserve,5.7,0.246,0.504,0.347,13.6,317.1,0.43,57,Shrubland,Moderate-Lowland,0.0
+2021-10-18,Saranda Forest,43.8,0.501,0.742,0.471,16.3,27.8,0.35,59,Shrubland,Steep-Highland,11.07
+2017-05-08,Saranda Forest,54.8,0.897,0.562,0.108,23.6,259.9,0.3,63,Forest,Moderate-Lowland,100.0
+2023-09-07,Bandipur National Park,40.3,0.842,0.652,0.35,33.6,208.1,0.12,14,Grassland,Steep-Lowland,100.0
+2019-12-29,Kaziranga National Park,55.6,0.784,0.747,0.415,26.3,281.6,0.11,31,Wetland,Low-Mid-altitude,100.0
+2020-08-22,Saranda Forest,47.7,0.827,0.539,0.23,25.2,485.5,0.44,97,Grassland,Moderate-Highland,100.0
+2015-11-19,Anamalai Tiger Reserve,29.9,0.677,0.66,0.545,38.7,441.4,0.43,12,Grassland,Moderate-Highland,100.0
+2015-11-22,Sundarbans,53.3,0.711,0.519,0.05,25.3,77.6,0.14,39,Grassland,Moderate-Mid-altitude,100.0
+2023-04-14,Sundarbans,4.5,0.581,0.53,0.39,17.1,17.6,0.29,38,Grassland,Low-Mid-altitude,100.0
+2017-05-17,Anamalai Tiger Reserve,59.2,0.736,0.732,0.618,30.6,286.5,0.33,35,Shrubland,Steep-Mid-altitude,100.0
+2023-08-02,Saranda Forest,20.2,0.338,0.735,0.256,33.1,398.3,0.1,100,Grassland,Steep-Lowland,17.12
+2023-05-23,Simlipal Biosphere Reserve,36.0,0.405,0.826,0.482,38.9,320.3,0.49,79,Wetland,Low-Mid-altitude,0.0
+2019-05-06,Simlipal Biosphere Reserve,7.1,0.831,0.711,0.408,36.8,226.6,0.33,72,Forest,Low-Highland,100.0
+2019-01-19,Melghat Forest,34.5,0.232,0.827,0.665,33.2,252.7,0.4,12,Shrubland,Steep-Mid-altitude,0.0
+2020-07-07,Simlipal Biosphere Reserve,43.6,0.411,0.527,0.4,18.4,192.6,0.25,92,Shrubland,Moderate-Lowland,8.66
+2016-03-04,Anamalai Tiger Reserve,5.2,0.874,0.849,0.518,16.5,345.3,0.4,57,Forest,Low-Highland,100.0
+2017-12-06,Bandipur National Park,47.4,0.237,0.626,0.275,18.4,315.5,0.39,78,Forest,Steep-Lowland,0.0
+2022-12-16,Bandipur National Park,51.5,0.595,0.734,0.573,32.4,252.3,0.15,6,Wetland,Moderate-Highland,13.66
+2019-07-19,Simlipal Biosphere Reserve,47.7,0.595,0.649,0.541,28.1,15.6,0.11,89,Forest,Steep-Highland,50.0
+2022-10-04,Anamalai Tiger Reserve,12.4,0.531,0.811,0.379,36.6,367.9,0.29,46,Shrubland,Steep-Highland,35.19
+2020-11-23,Kaziranga National Park,14.1,0.331,0.793,0.519,31.6,51.8,0.12,42,Shrubland,Moderate-Lowland,0.0
+2023-08-28,Saranda Forest,38.8,0.398,0.835,0.566,20.0,24.8,0.29,91,Shrubland,Steep-Mid-altitude,0.0
+2020-10-18,Sundarbans,58.7,0.494,0.79,0.387,27.5,459.4,0.22,25,Shrubland,Moderate-Highland,26.55
+2022-05-02,Bandipur National Park,52.9,0.295,0.553,0.125,38.2,429.1,0.43,29,Shrubland,Low-Lowland,39.72
+2023-05-20,Saranda Forest,48.4,0.379,0.86,0.387,21.7,70.2,0.34,60,Wetland,Steep-Mid-altitude,0.0
+2020-07-29,Melghat Forest,42.9,0.728,0.72,0.477,38.6,0.3,0.36,75,Forest,Moderate-Highland,100.0
+2018-07-02,Anamalai Tiger Reserve,26.6,0.382,0.852,0.417,35.4,122.7,0.37,21,Grassland,Steep-Mid-altitude,0.0
+2022-11-26,Kaziranga National Park,10.4,0.317,0.654,0.369,14.3,289.1,0.39,8,Shrubland,Moderate-Mid-altitude,0.0
+2020-07-16,Anamalai Tiger Reserve,25.4,0.621,0.547,0.286,24.6,481.6,0.13,54,Shrubland,Moderate-Lowland,100.0
+2017-07-23,Anamalai Tiger Reserve,35.8,0.806,0.506,0.323,26.4,34.8,0.49,71,Wetland,Moderate-Highland,100.0
+2016-12-10,Kanha National Park,5.7,0.314,0.769,0.415,25.2,59.8,0.37,45,Wetland,Low-Highland,0.0
+2015-11-07,Kanha National Park,39.9,0.249,0.895,0.489,10.7,221.1,0.48,19,Grassland,Steep-Lowland,0.0
+2015-01-28,Anamalai Tiger Reserve,44.1,0.514,0.613,0.484,34.0,327.2,0.21,58,Shrubland,Low-Lowland,23.26
+2022-09-22,Sundarbans,23.1,0.499,0.573,0.468,37.2,19.8,0.19,23,Grassland,Steep-Mid-altitude,29.52
+2023-08-22,Melghat Forest,32.8,0.802,0.637,0.2,38.1,343.6,0.19,98,Grassland,Low-Highland,100.0
+2022-12-13,Anamalai Tiger Reserve,40.0,0.713,0.572,0.307,14.7,97.1,0.45,2,Forest,Low-Mid-altitude,100.0
+2015-08-31,Simlipal Biosphere Reserve,16.3,0.715,0.735,0.356,33.1,129.9,0.27,83,Shrubland,Moderate-Lowland,94.72
+2016-12-18,Saranda Forest,2.7,0.344,0.794,0.432,31.0,364.6,0.35,53,Forest,Moderate-Mid-altitude,0.0
+2016-10-17,Kaziranga National Park,49.0,0.474,0.884,0.423,35.6,68.5,0.13,43,Shrubland,Steep-Mid-altitude,11.06
+2021-02-19,Simlipal Biosphere Reserve,6.5,0.552,0.763,0.292,26.9,275.2,0.35,63,Forest,Low-Highland,55.2
+2022-07-21,Sundarbans,9.4,0.271,0.699,0.529,26.4,51.1,0.37,5,Shrubland,Steep-Lowland,0.0
+2020-10-08,Saranda Forest,53.0,0.519,0.88,0.464,14.3,122.4,0.32,22,Forest,Moderate-Mid-altitude,13.22
+2018-08-10,Bandipur National Park,36.6,0.798,0.827,0.369,28.7,364.3,0.11,4,Wetland,Steep-Highland,93.67
+2019-07-23,Anamalai Tiger Reserve,49.1,0.209,0.652,0.233,17.4,0.3,0.29,100,Wetland,Low-Highland,0.0
+2021-02-27,Simlipal Biosphere Reserve,42.9,0.309,0.879,0.563,12.7,447.1,0.36,52,Forest,Low-Mid-altitude,0.0
+2019-05-26,Simlipal Biosphere Reserve,17.0,0.847,0.886,0.639,10.1,417.4,0.14,72,Grassland,Steep-Mid-altitude,84.21
+2015-03-31,Kanha National Park,47.5,0.619,0.556,0.16,28.0,72.6,0.47,33,Grassland,Steep-Lowland,100.0
+2019-11-20,Sundarbans,32.4,0.798,0.651,0.197,13.5,372.8,0.24,30,Wetland,Low-Lowland,100.0
+2015-03-18,Simlipal Biosphere Reserve,31.1,0.626,0.753,0.356,13.1,296.4,0.16,65,Wetland,Steep-Lowland,68.01
+2016-01-07,Simlipal Biosphere Reserve,14.0,0.231,0.557,0.446,28.5,15.2,0.24,70,Grassland,Low-Highland,0.0
+2017-10-30,Sundarbans,17.4,0.443,0.779,0.495,27.0,468.0,0.24,95,Forest,Steep-Highland,0.0
+2023-09-08,Sundarbans,25.1,0.657,0.881,0.521,33.2,244.0,0.39,93,Wetland,Low-Highland,37.78
+2017-11-11,Melghat Forest,30.3,0.393,0.871,0.466,10.5,293.4,0.28,49,Shrubland,Moderate-Lowland,0.0
+2019-02-22,Simlipal Biosphere Reserve,27.1,0.785,0.629,0.325,36.5,203.5,0.37,52,Grassland,Low-Lowland,100.0
+2018-01-11,Sundarbans,46.7,0.425,0.691,0.279,36.7,74.7,0.42,3,Wetland,Steep-Mid-altitude,35.44
+2020-12-06,Kanha National Park,24.6,0.559,0.664,0.292,34.4,127.9,0.45,72,Forest,Steep-Mid-altitude,71.77
+2019-05-17,Bandipur National Park,45.7,0.374,0.621,0.139,10.6,2.9,0.5,55,Shrubland,Steep-Lowland,48.76
+2016-07-13,Simlipal Biosphere Reserve,37.8,0.213,0.778,0.423,31.6,429.1,0.44,18,Grassland,Steep-Highland,0.0
+2021-02-25,Bandipur National Park,27.7,0.383,0.679,0.252,24.5,61.6,0.29,38,Grassland,Low-Highland,30.68
+2016-11-15,Kaziranga National Park,24.2,0.204,0.717,0.413,10.8,71.4,0.24,49,Forest,Low-Lowland,0.0
+2022-05-16,Kaziranga National Park,27.1,0.462,0.51,0.193,28.1,218.9,0.28,100,Wetland,Low-Lowland,84.86
+2020-06-18,Simlipal Biosphere Reserve,16.5,0.646,0.701,0.277,11.1,179.5,0.17,13,Wetland,Low-Mid-altitude,87.03
+2018-12-01,Sundarbans,47.9,0.473,0.774,0.479,34.6,100.3,0.47,95,Grassland,Low-Lowland,0.0
+2016-08-05,Bandipur National Park,29.8,0.367,0.624,0.254,15.7,79.3,0.26,33,Shrubland,Low-Mid-altitude,30.54
+2023-09-12,Anamalai Tiger Reserve,54.8,0.736,0.818,0.461,23.2,138.7,0.19,44,Grassland,Low-Mid-altitude,77.03
+2016-07-15,Kaziranga National Park,21.6,0.724,0.595,0.393,25.4,146.2,0.11,30,Shrubland,Low-Highland,100.0
+2016-10-05,Anamalai Tiger Reserve,42.6,0.352,0.85,0.634,30.1,41.3,0.4,86,Forest,Steep-Mid-altitude,0.0
+2020-09-16,Melghat Forest,54.3,0.242,0.894,0.595,31.9,203.7,0.49,25,Shrubland,Moderate-Lowland,0.0
+2021-11-21,Melghat Forest,18.9,0.581,0.691,0.397,33.3,250.7,0.19,15,Forest,Moderate-Mid-altitude,62.59
+2016-09-08,Anamalai Tiger Reserve,39.7,0.818,0.559,0.358,32.9,473.0,0.23,70,Grassland,Steep-Highland,100.0
+2023-03-17,Sundarbans,37.9,0.334,0.804,0.443,37.0,51.5,0.11,9,Forest,Low-Highland,0.0
+2020-04-25,Simlipal Biosphere Reserve,48.5,0.893,0.553,0.351,23.8,34.6,0.12,15,Forest,Moderate-Lowland,100.0
+2017-02-11,Saranda Forest,9.2,0.576,0.653,0.217,36.1,152.2,0.38,90,Wetland,Low-Highland,82.34
+2018-08-22,Saranda Forest,47.6,0.64,0.681,0.571,16.4,452.0,0.1,88,Shrubland,Low-Lowland,62.73
+2018-07-04,Bandipur National Park,50.2,0.359,0.609,0.136,36.1,330.8,0.18,24,Grassland,Steep-Mid-altitude,47.15
+2023-01-07,Kanha National Park,40.7,0.576,0.577,0.153,26.7,305.6,0.12,58,Grassland,Steep-Mid-altitude,99.76
+2018-04-16,Kaziranga National Park,49.2,0.443,0.772,0.441,14.1,402.4,0.33,10,Grassland,Low-Lowland,0.6
+2018-10-25,Kanha National Park,31.1,0.755,0.6,0.319,20.0,282.7,0.36,60,Grassland,Moderate-Highland,100.0
+2019-06-02,Bandipur National Park,21.5,0.459,0.878,0.382,23.2,97.8,0.45,99,Grassland,Steep-Lowland,15.52
+2015-07-29,Bandipur National Park,17.3,0.593,0.713,0.518,22.5,339.2,0.42,29,Wetland,Steep-Lowland,38.46
+2022-02-24,Saranda Forest,23.5,0.248,0.691,0.28,16.8,458.0,0.19,39,Forest,Steep-Mid-altitude,0.0
+2018-12-25,Sundarbans,31.9,0.463,0.501,0.396,11.6,87.6,0.29,44,Grassland,Steep-Highland,63.81
+2020-04-25,Sundarbans,40.9,0.483,0.506,0.079,34.7,200.4,0.41,56,Forest,Moderate-Lowland,94.61
+2017-10-10,Melghat Forest,9.5,0.718,0.57,0.344,20.6,105.5,0.29,1,Forest,Moderate-Lowland,100.0
+2023-11-19,Kanha National Park,13.4,0.278,0.706,0.399,39.7,235.5,0.27,64,Forest,Steep-Mid-altitude,0.0
+2022-07-15,Bandipur National Park,35.7,0.219,0.808,0.594,32.1,365.9,0.34,66,Shrubland,Steep-Mid-altitude,0.0
+2020-05-15,Kaziranga National Park,9.4,0.38,0.89,0.555,26.0,334.6,0.17,83,Grassland,Low-Mid-altitude,0.0
+2020-01-16,Kanha National Park,34.6,0.615,0.835,0.668,39.4,247.9,0.38,68,Forest,Moderate-Lowland,0.0
+2015-10-09,Sundarbans,53.2,0.741,0.52,0.173,24.6,360.7,0.44,60,Wetland,Low-Mid-altitude,100.0
+2018-10-11,Sundarbans,36.9,0.275,0.729,0.305,19.2,254.5,0.36,63,Shrubland,Steep-Mid-altitude,0.0
+2018-09-29,Simlipal Biosphere Reserve,16.6,0.46,0.883,0.452,17.5,164.4,0.21,61,Forest,Steep-Mid-altitude,1.86
+2023-06-02,Sundarbans,11.4,0.689,0.659,0.184,33.1,434.6,0.11,88,Wetland,Steep-Mid-altitude,100.0
+2018-04-15,Melghat Forest,47.7,0.689,0.671,0.544,14.0,35.5,0.12,6,Shrubland,Low-Lowland,100.0
+2023-03-26,Kanha National Park,49.9,0.395,0.549,0.292,15.0,218.6,0.14,88,Shrubland,Moderate-Lowland,40.08
+2023-12-22,Saranda Forest,53.3,0.324,0.765,0.585,32.1,418.7,0.14,94,Shrubland,Steep-Lowland,0.0
+2023-03-18,Bandipur National Park,59.6,0.321,0.753,0.357,14.9,495.8,0.2,30,Wetland,Steep-Highland,0.0
+2018-12-23,Kanha National Park,38.4,0.89,0.592,0.268,11.6,478.8,0.33,89,Forest,Moderate-Lowland,100.0
+2015-07-02,Kanha National Park,39.7,0.252,0.511,0.361,24.3,422.8,0.16,54,Shrubland,Low-Mid-altitude,0.0
+2023-12-02,Bandipur National Park,26.4,0.584,0.895,0.496,29.9,458.6,0.16,17,Grassland,Steep-Mid-altitude,22.06
+2020-08-08,Melghat Forest,43.3,0.473,0.895,0.507,31.0,247.1,0.23,52,Grassland,Moderate-Mid-altitude,0.0
+2020-08-01,Bandipur National Park,26.7,0.816,0.522,0.302,13.5,36.9,0.22,76,Shrubland,Steep-Lowland,100.0
+2017-04-10,Kanha National Park,50.1,0.268,0.562,0.132,37.8,492.4,0.42,93,Grassland,Steep-Mid-altitude,31.63
+2023-09-01,Saranda Forest,59.7,0.325,0.651,0.363,19.3,11.4,0.15,45,Grassland,Low-Highland,0.0
+2023-08-29,Kaziranga National Park,48.9,0.712,0.871,0.696,39.6,49.0,0.22,87,Wetland,Steep-Highland,9.14
+2019-04-03,Simlipal Biosphere Reserve,43.3,0.555,0.769,0.51,14.2,407.8,0.41,23,Shrubland,Low-Highland,17.37
+2021-03-06,Simlipal Biosphere Reserve,3.6,0.318,0.834,0.687,10.6,169.8,0.39,40,Shrubland,Moderate-Lowland,0.0
+2015-06-27,Kanha National Park,51.0,0.865,0.758,0.315,20.6,479.6,0.34,85,Forest,Moderate-Highland,100.0
+2023-01-07,Bandipur National Park,51.2,0.543,0.67,0.229,32.3,167.5,0.1,17,Shrubland,Moderate-Mid-altitude,71.2
+2022-03-03,Bandipur National Park,42.2,0.593,0.875,0.543,12.5,158.2,0.23,67,Wetland,Steep-Highland,15.06
+2018-10-18,Kaziranga National Park,35.2,0.492,0.896,0.791,10.9,50.0,0.27,31,Forest,Steep-Lowland,0.0
+2017-03-30,Anamalai Tiger Reserve,24.9,0.702,0.818,0.479,15.2,376.9,0.2,56,Grassland,Low-Highland,65.78
+2022-05-24,Melghat Forest,43.5,0.801,0.623,0.505,36.0,74.5,0.46,1,Forest,Low-Lowland,100.0
+2022-08-26,Kaziranga National Park,11.4,0.665,0.881,0.717,25.1,174.6,0.46,93,Forest,Low-Highland,0.0
+2023-05-25,Kanha National Park,6.1,0.407,0.658,0.236,17.3,444.3,0.17,0,Shrubland,Moderate-Mid-altitude,40.52
+2018-07-26,Saranda Forest,33.2,0.241,0.641,0.511,35.5,103.4,0.19,49,Grassland,Low-Mid-altitude,0.0
+2021-07-14,Kanha National Park,55.0,0.681,0.718,0.566,30.8,125.6,0.38,65,Forest,Moderate-Highland,75.66
+2015-12-16,Bandipur National Park,47.7,0.881,0.596,0.399,24.4,456.1,0.37,6,Forest,Steep-Mid-altitude,100.0
+2018-05-13,Saranda Forest,33.9,0.412,0.845,0.513,29.1,481.0,0.49,69,Shrubland,Steep-Lowland,0.0
+2015-07-19,Anamalai Tiger Reserve,58.6,0.542,0.532,0.11,33.1,64.7,0.11,44,Forest,Steep-Mid-altitude,100.0
+2018-10-11,Anamalai Tiger Reserve,58.7,0.272,0.708,0.384,38.4,491.9,0.45,58,Wetland,Moderate-Lowland,0.0
+2021-05-10,Simlipal Biosphere Reserve,23.4,0.698,0.743,0.482,39.3,464.5,0.23,19,Grassland,Steep-Lowland,82.76
+2021-05-11,Simlipal Biosphere Reserve,25.4,0.717,0.581,0.131,15.5,53.9,0.34,45,Grassland,Low-Lowland,100.0
+2020-12-18,Sundarbans,30.0,0.294,0.552,0.143,25.9,29.8,0.29,23,Shrubland,Steep-Mid-altitude,36.92
+2015-07-24,Bandipur National Park,57.0,0.818,0.509,0.268,12.9,366.5,0.33,56,Forest,Steep-Mid-altitude,100.0
+2019-09-06,Sundarbans,37.8,0.314,0.698,0.22,36.2,439.0,0.33,46,Grassland,Steep-Lowland,19.67
+2018-03-23,Kanha National Park,15.1,0.85,0.635,0.443,10.6,30.3,0.22,25,Grassland,Moderate-Highland,100.0
+2016-04-11,Saranda Forest,7.5,0.583,0.718,0.3,10.2,43.1,0.21,56,Grassland,Low-Mid-altitude,67.7
+2019-04-02,Kaziranga National Park,58.4,0.62,0.806,0.395,28.8,268.9,0.12,80,Forest,Moderate-Mid-altitude,54.74
+2023-03-08,Kaziranga National Park,52.7,0.219,0.616,0.198,15.3,204.6,0.14,70,Wetland,Steep-Mid-altitude,5.02
+2022-05-15,Kaziranga National Park,49.6,0.746,0.708,0.211,26.2,90.1,0.27,84,Wetland,Steep-Highland,100.0
+2020-01-09,Sundarbans,35.3,0.521,0.648,0.301,27.5,298.5,0.4,49,Shrubland,Moderate-Lowland,63.4
+2016-06-14,Kaziranga National Park,40.7,0.757,0.768,0.589,35.4,192.6,0.28,19,Forest,Steep-Highland,93.85
+2021-05-08,Sundarbans,50.8,0.297,0.651,0.243,37.2,266.0,0.43,55,Wetland,Low-Highland,13.24
+2017-05-03,Anamalai Tiger Reserve,6.4,0.201,0.87,0.694,33.3,499.9,0.31,80,Shrubland,Steep-Highland,0.0
+2021-06-12,Kanha National Park,1.9,0.706,0.807,0.67,28.5,452.0,0.3,19,Grassland,Moderate-Mid-altitude,26.28
+2015-05-02,Kaziranga National Park,15.7,0.278,0.804,0.69,27.2,435.9,0.2,99,Shrubland,Moderate-Highland,0.0
+2015-03-24,Melghat Forest,46.3,0.763,0.64,0.495,36.3,392.1,0.27,57,Grassland,Moderate-Mid-altitude,100.0
+2020-09-04,Saranda Forest,12.0,0.32,0.601,0.2,27.5,103.1,0.3,10,Shrubland,Steep-Mid-altitude,29.93
+2022-11-04,Kanha National Park,5.9,0.715,0.811,0.651,11.8,442.1,0.36,43,Shrubland,Steep-Highland,40.0
+2018-02-14,Kanha National Park,48.4,0.433,0.679,0.204,33.7,246.2,0.35,4,Wetland,Low-Mid-altitude,48.21
+2017-07-30,Saranda Forest,27.3,0.517,0.889,0.454,16.6,262.7,0.4,44,Grassland,Moderate-Lowland,14.48
+2021-01-02,Kaziranga National Park,13.8,0.601,0.505,0.075,12.2,87.1,0.38,46,Grassland,Low-Lowland,100.0
+2019-04-20,Simlipal Biosphere Reserve,50.8,0.713,0.788,0.68,33.5,253.4,0.4,87,Grassland,Moderate-Lowland,30.56
+2019-03-17,Sundarbans,40.6,0.653,0.684,0.364,12.5,402.8,0.24,28,Shrubland,Steep-Mid-altitude,90.31
+2017-07-24,Simlipal Biosphere Reserve,21.2,0.406,0.616,0.319,37.9,140.4,0.14,3,Forest,Low-Mid-altitude,29.29
+2016-04-06,Simlipal Biosphere Reserve,25.4,0.336,0.831,0.515,20.0,10.9,0.22,79,Grassland,Low-Mid-altitude,0.0
+2021-01-16,Sundarbans,22.2,0.302,0.599,0.161,13.4,435.6,0.46,17,Grassland,Low-Highland,32.19
+2019-12-12,Saranda Forest,40.9,0.223,0.756,0.405,28.7,5.4,0.32,26,Shrubland,Steep-Mid-altitude,0.0
+2018-08-22,Simlipal Biosphere Reserve,37.8,0.638,0.545,0.313,17.0,463.3,0.42,28,Forest,Steep-Highland,100.0
+2022-01-25,Sundarbans,21.7,0.887,0.565,0.172,25.3,375.5,0.48,69,Grassland,Steep-Highland,100.0
+2016-04-22,Kaziranga National Park,21.3,0.726,0.872,0.498,23.0,423.0,0.27,80,Forest,Moderate-Highland,60.96
+2023-10-13,Kanha National Park,8.2,0.703,0.521,0.25,29.3,443.0,0.2,12,Wetland,Steep-Highland,100.0
+2016-10-04,Melghat Forest,42.3,0.29,0.648,0.201,11.9,355.8,0.41,78,Shrubland,Moderate-Highland,19.91
+2019-12-28,Sundarbans,3.9,0.469,0.536,0.256,25.1,425.9,0.34,61,Wetland,Moderate-Highland,76.07
+2019-10-29,Saranda Forest,12.9,0.235,0.584,0.464,15.1,451.3,0.16,96,Forest,Moderate-Lowland,0.0
+2017-11-08,Simlipal Biosphere Reserve,55.4,0.799,0.605,0.22,29.4,388.2,0.37,23,Grassland,Steep-Lowland,100.0
+2022-12-13,Melghat Forest,31.5,0.299,0.644,0.262,38.6,473.5,0.36,19,Grassland,Low-Highland,9.69
+2017-05-20,Kaziranga National Park,47.3,0.479,0.645,0.179,21.7,195.4,0.12,67,Forest,Moderate-Lowland,64.38
+2022-04-28,Kanha National Park,49.8,0.412,0.588,0.141,15.9,420.0,0.37,54,Grassland,Low-Mid-altitude,60.63
+2018-03-10,Kanha National Park,14.2,0.731,0.78,0.615,22.7,457.2,0.48,19,Grassland,Moderate-Lowland,70.3
+2021-05-09,Bandipur National Park,55.2,0.515,0.838,0.422,39.7,197.8,0.17,72,Wetland,Low-Highland,22.36
+2023-11-09,Simlipal Biosphere Reserve,42.1,0.642,0.733,0.315,30.6,42.0,0.38,7,Forest,Steep-Mid-altitude,78.23
+2022-01-02,Kaziranga National Park,42.7,0.648,0.663,0.384,28.6,96.1,0.28,77,Wetland,Steep-Lowland,94.62
+2022-03-10,Melghat Forest,59.1,0.373,0.691,0.523,20.8,57.5,0.45,77,Forest,Steep-Highland,0.0
+2022-09-19,Melghat Forest,30.6,0.603,0.545,0.208,36.5,52.9,0.39,3,Forest,Steep-Highland,100.0
+2019-03-23,Anamalai Tiger Reserve,50.1,0.802,0.581,0.39,16.2,154.5,0.47,13,Wetland,Low-Lowland,100.0
+2022-03-15,Kaziranga National Park,37.8,0.646,0.581,0.174,32.4,342.0,0.48,91,Wetland,Low-Highland,100.0
+2022-07-07,Kanha National Park,14.3,0.665,0.874,0.695,29.9,340.6,0.13,21,Grassland,Steep-Mid-altitude,0.0
+2018-01-05,Anamalai Tiger Reserve,56.3,0.86,0.692,0.54,24.4,49.2,0.3,64,Wetland,Moderate-Lowland,100.0
+2016-07-24,Saranda Forest,53.7,0.81,0.623,0.418,28.9,282.5,0.23,36,Shrubland,Low-Mid-altitude,100.0
+2023-01-08,Kaziranga National Park,49.4,0.767,0.535,0.334,17.7,304.7,0.38,11,Wetland,Steep-Lowland,100.0
+2016-05-12,Melghat Forest,31.2,0.338,0.75,0.381,22.2,166.6,0.21,78,Grassland,Low-Highland,0.0
+2023-07-05,Sundarbans,26.9,0.629,0.828,0.371,36.1,171.9,0.21,3,Grassland,Steep-Highland,56.46
+2015-07-24,Saranda Forest,55.5,0.848,0.779,0.394,20.6,261.3,0.38,72,Grassland,Steep-Highland,100.0
+2022-12-10,Bandipur National Park,31.2,0.529,0.851,0.666,25.6,428.8,0.17,32,Wetland,Steep-Lowland,0.0
+2020-08-13,Simlipal Biosphere Reserve,35.0,0.674,0.724,0.574,14.2,147.6,0.44,45,Grassland,Steep-Lowland,66.67
+2017-03-12,Kanha National Park,26.2,0.572,0.525,0.179,14.7,146.3,0.37,16,Forest,Moderate-Mid-altitude,100.0
+2021-05-10,Bandipur National Park,57.0,0.396,0.594,0.258,31.0,416.0,0.22,77,Wetland,Moderate-Lowland,41.07
+2023-03-08,Sundarbans,48.1,0.894,0.528,0.145,27.9,106.0,0.36,28,Shrubland,Steep-Mid-altitude,100.0
+2021-06-10,Sundarbans,37.1,0.439,0.739,0.467,27.1,324.9,0.34,85,Grassland,Low-Mid-altitude,0.0
+2016-06-24,Sundarbans,28.5,0.277,0.874,0.531,11.8,271.3,0.38,23,Wetland,Steep-Highland,0.0
+2018-09-14,Simlipal Biosphere Reserve,22.2,0.857,0.621,0.463,37.7,236.1,0.12,38,Wetland,Steep-Lowland,100.0
+2016-02-04,Anamalai Tiger Reserve,22.6,0.785,0.558,0.214,21.3,411.9,0.1,99,Shrubland,Low-Highland,100.0
+2021-03-19,Simlipal Biosphere Reserve,22.3,0.817,0.853,0.532,21.1,354.1,0.46,7,Wetland,Steep-Lowland,88.79
+2015-02-19,Kaziranga National Park,26.6,0.283,0.647,0.203,30.3,389.7,0.24,24,Grassland,Steep-Lowland,18.02
+2017-09-16,Melghat Forest,32.5,0.558,0.687,0.543,13.0,371.4,0.11,97,Grassland,Moderate-Lowland,10.42
+2019-04-07,Bandipur National Park,57.8,0.434,0.613,0.297,15.6,488.4,0.5,55,Grassland,Moderate-Mid-altitude,43.35
+2020-01-05,Bandipur National Park,14.0,0.828,0.568,0.197,20.2,286.5,0.26,60,Forest,Steep-Mid-altitude,100.0
+2021-06-23,Kanha National Park,47.0,0.212,0.866,0.488,27.8,181.0,0.25,79,Wetland,Steep-Mid-altitude,0.0
+2016-10-28,Kaziranga National Park,28.9,0.216,0.658,0.531,15.9,105.7,0.1,71,Forest,Moderate-Mid-altitude,0.0
+2017-10-27,Anamalai Tiger Reserve,17.8,0.496,0.615,0.242,25.5,132.0,0.27,58,Wetland,Steep-Mid-altitude,68.1
+2016-01-09,Bandipur National Park,54.3,0.497,0.606,0.317,33.4,157.5,0.29,19,Wetland,Steep-Highland,62.28
+2023-10-31,Sundarbans,51.9,0.582,0.504,0.325,21.7,343.6,0.26,36,Forest,Low-Mid-altitude,100.0
+2018-06-01,Sundarbans,36.9,0.733,0.603,0.141,31.8,241.1,0.19,90,Grassland,Moderate-Mid-altitude,100.0
+2016-01-10,Melghat Forest,24.7,0.631,0.703,0.221,17.4,365.6,0.49,25,Forest,Low-Highland,85.06
+2018-10-22,Bandipur National Park,25.0,0.227,0.796,0.413,20.2,298.2,0.36,52,Grassland,Moderate-Mid-altitude,0.0
+2022-02-20,Simlipal Biosphere Reserve,22.6,0.501,0.846,0.587,24.1,377.6,0.27,39,Grassland,Low-Lowland,0.0
+2022-01-01,Melghat Forest,37.8,0.512,0.816,0.554,34.4,476.7,0.44,16,Forest,Moderate-Mid-altitude,0.0
+2023-03-22,Kaziranga National Park,25.2,0.583,0.586,0.269,18.5,143.9,0.24,21,Wetland,Steep-Highland,99.05
+2018-10-22,Saranda Forest,48.4,0.512,0.548,0.324,23.9,336.8,0.38,1,Wetland,Low-Highland,83.93
+2015-02-18,Sundarbans,47.4,0.719,0.894,0.783,14.4,483.6,0.3,91,Grassland,Low-Lowland,0.0
+2022-12-26,Bandipur National Park,57.2,0.38,0.784,0.557,24.6,79.9,0.49,5,Wetland,Moderate-Lowland,0.0
+2018-10-18,Kaziranga National Park,32.3,0.619,0.695,0.207,11.7,64.9,0.14,6,Grassland,Moderate-Lowland,84.43
+2015-01-13,Melghat Forest,57.9,0.407,0.752,0.544,12.2,69.7,0.22,80,Forest,Moderate-Mid-altitude,0.0
+2017-04-01,Saranda Forest,56.7,0.526,0.646,0.444,37.8,265.3,0.19,80,Wetland,Low-Lowland,40.59
+2023-07-27,Sundarbans,31.9,0.82,0.571,0.424,38.2,104.8,0.26,9,Forest,Moderate-Mid-altitude,100.0
+2018-09-23,Kanha National Park,36.6,0.565,0.646,0.442,28.2,279.9,0.12,42,Shrubland,Low-Lowland,60.29
+2018-12-13,Saranda Forest,20.1,0.325,0.73,0.556,35.7,79.6,0.32,87,Forest,Low-Mid-altitude,0.0
+2023-04-09,Saranda Forest,28.2,0.466,0.626,0.268,28.4,288.4,0.4,9,Grassland,Steep-Lowland,55.31
+2018-07-17,Saranda Forest,10.5,0.804,0.731,0.62,16.1,203.8,0.47,33,Grassland,Steep-Mid-altitude,100.0
+2017-12-27,Saranda Forest,19.6,0.795,0.701,0.355,11.9,445.0,0.19,94,Wetland,Moderate-Highland,100.0
+2015-07-18,Simlipal Biosphere Reserve,35.8,0.368,0.619,0.232,15.7,204.3,0.16,68,Forest,Moderate-Mid-altitude,35.14
+2018-03-15,Simlipal Biosphere Reserve,32.2,0.592,0.696,0.303,30.8,359.8,0.48,53,Shrubland,Moderate-Mid-altitude,73.54
+2016-11-22,Simlipal Biosphere Reserve,46.9,0.416,0.735,0.495,39.3,106.9,0.43,40,Shrubland,Low-Highland,0.0
+2021-06-07,Kaziranga National Park,29.1,0.415,0.614,0.247,30.5,346.5,0.48,69,Shrubland,Low-Lowland,45.78
+2021-03-11,Sundarbans,6.3,0.408,0.731,0.416,36.1,245.4,0.42,52,Grassland,Low-Highland,0.0
+2020-07-06,Saranda Forest,15.3,0.663,0.834,0.485,24.6,227.8,0.28,57,Forest,Steep-Mid-altitude,51.0
+2017-06-29,Sundarbans,8.4,0.205,0.842,0.59,16.4,484.5,0.31,92,Wetland,Steep-Mid-altitude,0.0
+2017-05-22,Bandipur National Park,38.6,0.864,0.569,0.416,11.6,382.1,0.45,31,Forest,Low-Mid-altitude,100.0
+2019-12-08,Melghat Forest,41.2,0.457,0.89,0.679,38.9,266.5,0.16,10,Grassland,Moderate-Highland,0.0
+2021-06-10,Kanha National Park,37.1,0.801,0.841,0.39,23.1,483.8,0.36,40,Wetland,Steep-Lowland,91.13
+2016-01-09,Sundarbans,11.9,0.819,0.892,0.727,18.7,189.6,0.24,72,Forest,Moderate-Mid-altitude,55.76
+2023-07-08,Sundarbans,6.5,0.362,0.574,0.109,34.0,467.7,0.35,75,Forest,Moderate-Lowland,54.41
+2017-05-22,Kaziranga National Park,12.1,0.788,0.651,0.275,18.6,325.8,0.27,82,Grassland,Low-Mid-altitude,100.0
+2020-11-22,Kaziranga National Park,15.5,0.418,0.8,0.606,22.3,121.9,0.27,96,Shrubland,Steep-Mid-altitude,0.0
+2021-10-18,Kanha National Park,12.1,0.75,0.748,0.321,32.4,481.2,0.38,7,Wetland,Low-Lowland,100.0
+2018-04-06,Bandipur National Park,53.2,0.766,0.668,0.38,17.5,171.1,0.47,12,Forest,Steep-Lowland,100.0
+2022-08-11,Simlipal Biosphere Reserve,46.8,0.898,0.649,0.378,26.3,141.2,0.31,29,Grassland,Moderate-Lowland,100.0
+2020-08-12,Bandipur National Park,39.7,0.631,0.848,0.578,33.5,251.3,0.5,73,Grassland,Low-Highland,19.63
+2021-12-01,Anamalai Tiger Reserve,10.2,0.218,0.64,0.339,17.4,318.0,0.19,64,Shrubland,Moderate-Lowland,0.0
+2019-10-13,Kaziranga National Park,23.0,0.542,0.714,0.457,12.8,171.1,0.35,38,Grassland,Steep-Mid-altitude,33.07
+2020-01-14,Simlipal Biosphere Reserve,55.6,0.761,0.816,0.709,17.5,310.3,0.38,72,Grassland,Steep-Mid-altitude,48.6
+2016-08-15,Saranda Forest,15.1,0.405,0.538,0.076,12.2,69.2,0.12,82,Shrubland,Steep-Highland,71.21
+2021-10-11,Saranda Forest,29.8,0.372,0.845,0.72,27.9,488.8,0.46,91,Shrubland,Moderate-Highland,0.0
+2019-07-18,Kaziranga National Park,4.7,0.45,0.853,0.588,30.3,102.7,0.16,42,Wetland,Low-Mid-altitude,0.0
+2021-09-13,Saranda Forest,59.6,0.235,0.714,0.552,30.4,155.3,0.25,53,Forest,Low-Mid-altitude,0.0
+2016-11-06,Saranda Forest,25.0,0.88,0.582,0.242,32.1,15.1,0.12,2,Shrubland,Steep-Lowland,100.0
+2023-03-17,Saranda Forest,3.7,0.209,0.58,0.31,13.6,435.9,0.46,67,Wetland,Steep-Lowland,0.0
+2021-01-28,Anamalai Tiger Reserve,34.3,0.261,0.716,0.362,34.1,112.4,0.48,84,Shrubland,Steep-Mid-altitude,0.0
+2016-04-15,Melghat Forest,45.3,0.843,0.545,0.052,39.0,325.4,0.44,50,Forest,Steep-Highland,100.0
+2018-04-25,Saranda Forest,6.8,0.835,0.608,0.393,37.4,120.9,0.37,58,Wetland,Steep-Highland,100.0
+2018-01-10,Anamalai Tiger Reserve,33.3,0.314,0.775,0.586,25.5,322.3,0.29,88,Shrubland,Low-Lowland,0.0
+2018-08-24,Anamalai Tiger Reserve,12.5,0.32,0.532,0.309,30.5,67.9,0.39,47,Wetland,Steep-Lowland,4.93
+2022-01-19,Melghat Forest,16.4,0.232,0.851,0.547,18.9,87.6,0.11,75,Grassland,Moderate-Mid-altitude,0.0
+2022-02-19,Melghat Forest,3.3,0.866,0.72,0.252,33.0,204.6,0.25,1,Shrubland,Moderate-Highland,100.0
+2019-03-21,Bandipur National Park,20.4,0.674,0.864,0.62,30.8,178.5,0.26,20,Shrubland,Low-Highland,22.13
+2018-10-17,Sundarbans,2.7,0.568,0.78,0.49,20.1,188.2,0.12,25,Grassland,Steep-Highland,26.9
+2017-05-22,Simlipal Biosphere Reserve,2.2,0.425,0.693,0.289,21.0,102.5,0.38,33,Grassland,Low-Highland,33.66
+2021-09-28,Sundarbans,31.7,0.833,0.689,0.353,18.0,336.9,0.49,8,Forest,Moderate-Highland,100.0
+2022-12-12,Bandipur National Park,56.5,0.391,0.566,0.213,16.5,449.0,0.14,82,Shrubland,Moderate-Lowland,50.42
+2016-05-28,Bandipur National Park,21.1,0.473,0.727,0.565,20.1,139.9,0.44,6,Wetland,Low-Highland,0.0
+2022-08-26,Saranda Forest,54.8,0.849,0.88,0.747,19.8,396.6,0.12,96,Wetland,Low-Mid-altitude,76.69
+2019-08-12,Melghat Forest,39.7,0.868,0.693,0.448,30.4,221.0,0.44,71,Wetland,Low-Mid-altitude,100.0
+2015-10-21,Sundarbans,39.3,0.782,0.523,0.316,35.6,496.9,0.41,93,Forest,Moderate-Highland,100.0
+2022-07-27,Sundarbans,28.4,0.866,0.696,0.399,26.9,43.9,0.31,78,Shrubland,Steep-Lowland,100.0
+2020-10-06,Kaziranga National Park,17.9,0.359,0.805,0.601,36.5,64.1,0.38,4,Wetland,Moderate-Mid-altitude,0.0
+2022-03-02,Bandipur National Park,45.6,0.686,0.55,0.079,30.1,8.0,0.34,50,Shrubland,Moderate-Mid-altitude,100.0
+2019-07-24,Saranda Forest,4.0,0.472,0.533,0.208,33.0,287.6,0.43,43,Wetland,Moderate-Lowland,81.23
+2023-07-13,Anamalai Tiger Reserve,35.3,0.864,0.672,0.409,20.1,340.6,0.29,94,Shrubland,Steep-Mid-altitude,100.0
+2017-09-04,Melghat Forest,16.0,0.282,0.675,0.566,14.0,483.6,0.38,56,Shrubland,Steep-Highland,0.0
+2015-05-04,Sundarbans,21.9,0.589,0.865,0.553,20.5,178.4,0.33,11,Wetland,Steep-Highland,11.54
+2018-07-26,Bandipur National Park,26.8,0.454,0.718,0.359,10.1,18.7,0.29,75,Shrubland,Steep-Highland,26.46
+2018-03-22,Saranda Forest,8.1,0.623,0.531,0.179,19.9,314.7,0.47,88,Grassland,Moderate-Highland,100.0
+2015-06-07,Kaziranga National Park,40.3,0.262,0.784,0.499,35.0,263.2,0.36,51,Forest,Low-Mid-altitude,0.0
+2019-10-30,Kanha National Park,15.9,0.72,0.715,0.417,39.5,462.9,0.29,19,Wetland,Low-Highland,100.0
+2019-06-23,Kanha National Park,34.6,0.512,0.759,0.588,10.6,22.4,0.47,53,Shrubland,Steep-Lowland,0.0
+2023-04-10,Saranda Forest,11.3,0.428,0.889,0.497,18.3,461.5,0.1,72,Wetland,Moderate-Highland,0.0
+2016-07-02,Kaziranga National Park,36.4,0.396,0.822,0.7,17.9,442.2,0.4,69,Grassland,Moderate-Mid-altitude,0.0
+2017-11-11,Sundarbans,59.4,0.609,0.567,0.138,25.6,271.4,0.18,74,Shrubland,Steep-Mid-altitude,100.0
+2023-04-06,Sundarbans,25.3,0.851,0.804,0.447,10.0,398.5,0.38,60,Shrubland,Low-Mid-altitude,100.0
+2017-02-12,Bandipur National Park,35.6,0.321,0.605,0.256,38.6,327.7,0.42,44,Wetland,Low-Highland,18.62
+2020-03-05,Kanha National Park,28.1,0.431,0.832,0.636,11.5,340.3,0.14,96,Shrubland,Moderate-Highland,0.0
+2015-02-01,Bandipur National Park,7.8,0.288,0.873,0.535,26.0,179.3,0.48,6,Grassland,Low-Lowland,0.0
+2019-04-27,Saranda Forest,56.1,0.655,0.762,0.411,39.0,6.4,0.31,86,Shrubland,Moderate-Lowland,69.52
+2019-03-22,Melghat Forest,39.0,0.846,0.667,0.389,15.4,160.9,0.41,16,Forest,Steep-Highland,100.0
+2015-10-15,Sundarbans,18.9,0.877,0.71,0.358,13.9,62.3,0.47,17,Grassland,Moderate-Highland,100.0
+2023-12-25,Anamalai Tiger Reserve,45.3,0.591,0.876,0.602,10.8,171.6,0.16,14,Grassland,Steep-Mid-altitude,0.0
+2017-06-23,Saranda Forest,8.2,0.654,0.882,0.513,36.7,395.0,0.14,58,Forest,Moderate-Mid-altitude,38.21
+2018-06-05,Bandipur National Park,22.0,0.888,0.649,0.225,36.7,43.7,0.16,68,Shrubland,Steep-Highland,100.0
+2018-12-12,Kanha National Park,1.2,0.802,0.56,0.166,38.0,121.1,0.22,26,Grassland,Moderate-Mid-altitude,100.0
+2015-12-28,Kanha National Park,26.6,0.71,0.691,0.274,15.8,348.9,0.4,45,Grassland,Moderate-Lowland,100.0
+2018-07-03,Kanha National Park,49.0,0.447,0.71,0.391,39.9,340.8,0.48,75,Shrubland,Moderate-Highland,17.55
+2021-06-16,Bandipur National Park,2.7,0.76,0.732,0.437,17.9,383.3,0.4,65,Grassland,Steep-Highland,100.0
+2017-01-19,Simlipal Biosphere Reserve,15.4,0.684,0.833,0.642,30.0,63.1,0.24,60,Forest,Steep-Lowland,21.99
+2022-03-23,Sundarbans,8.2,0.338,0.7,0.435,24.4,54.7,0.39,54,Shrubland,Low-Lowland,0.0
+2017-05-31,Saranda Forest,28.6,0.774,0.738,0.293,13.3,298.1,0.37,8,Wetland,Low-Lowland,100.0
+2016-10-15,Anamalai Tiger Reserve,46.8,0.27,0.622,0.399,20.3,402.9,0.37,33,Wetland,Low-Mid-altitude,0.0
+2023-02-18,Saranda Forest,58.3,0.848,0.723,0.397,26.0,441.5,0.21,32,Shrubland,Low-Highland,100.0
+2021-08-11,Sundarbans,25.4,0.747,0.623,0.397,19.5,296.9,0.32,12,Forest,Low-Mid-altitude,100.0
+2015-02-11,Kaziranga National Park,21.3,0.414,0.648,0.455,14.9,350.3,0.37,83,Grassland,Steep-Lowland,0.0
+2016-03-12,Simlipal Biosphere Reserve,50.0,0.616,0.643,0.354,15.0,495.6,0.28,96,Grassland,Low-Highland,90.66
+2023-05-28,Anamalai Tiger Reserve,2.9,0.375,0.831,0.731,21.0,187.0,0.42,93,Forest,Moderate-Lowland,0.0
+2022-06-05,Anamalai Tiger Reserve,12.6,0.653,0.871,0.577,26.1,56.3,0.35,93,Grassland,Steep-Highland,25.85
+2015-05-25,Bandipur National Park,30.7,0.432,0.683,0.537,34.6,28.1,0.36,28,Grassland,Low-Highland,0.0
+2020-10-04,Anamalai Tiger Reserve,2.7,0.716,0.847,0.55,35.1,245.3,0.12,13,Grassland,Low-Lowland,55.89
+2017-11-02,Melghat Forest,54.8,0.504,0.773,0.593,36.3,451.9,0.22,39,Forest,Low-Lowland,0.0
+2017-03-18,Simlipal Biosphere Reserve,45.4,0.89,0.802,0.45,31.9,413.7,0.26,16,Forest,Low-Lowland,100.0
+2021-06-06,Melghat Forest,5.0,0.854,0.635,0.191,10.4,144.0,0.28,36,Shrubland,Steep-Highland,100.0
+2017-12-18,Sundarbans,57.8,0.405,0.501,0.138,27.3,101.2,0.39,53,Wetland,Steep-Mid-altitude,73.55
+2016-09-21,Saranda Forest,6.5,0.267,0.804,0.696,21.6,140.2,0.36,43,Grassland,Low-Highland,0.0
+2022-09-13,Kanha National Park,4.2,0.638,0.8,0.554,35.8,22.7,0.17,78,Grassland,Steep-Highland,34.15
+2022-08-10,Melghat Forest,38.1,0.376,0.77,0.328,39.2,302.9,0.5,2,Wetland,Low-Lowland,10.86
+2022-01-17,Kanha National Park,44.3,0.804,0.628,0.219,21.3,488.3,0.13,51,Shrubland,Moderate-Mid-altitude,100.0
+2017-02-09,Simlipal Biosphere Reserve,7.0,0.411,0.674,0.272,21.2,493.7,0.46,0,Shrubland,Steep-Mid-altitude,34.58
+2016-07-19,Sundarbans,23.5,0.864,0.675,0.435,10.8,316.3,0.22,47,Wetland,Low-Mid-altitude,100.0
+2019-01-07,Melghat Forest,2.8,0.568,0.758,0.509,28.0,456.8,0.41,52,Forest,Moderate-Mid-altitude,23.69
+2017-07-31,Anamalai Tiger Reserve,24.0,0.513,0.859,0.473,18.3,328.7,0.34,58,Grassland,Low-Mid-altitude,10.36
+2022-01-23,Melghat Forest,5.4,0.384,0.61,0.443,17.7,266.2,0.11,81,Grassland,Steep-Mid-altitude,0.0
+2022-09-04,Bandipur National Park,30.8,0.34,0.839,0.456,31.0,248.1,0.43,23,Forest,Moderate-Mid-altitude,0.0
+2019-12-29,Kanha National Park,44.7,0.831,0.79,0.614,12.9,52.1,0.31,49,Forest,Low-Highland,100.0
+2015-12-08,Sundarbans,38.2,0.805,0.779,0.488,24.4,45.1,0.2,70,Wetland,Low-Lowland,100.0
+2021-08-05,Sundarbans,47.9,0.352,0.892,0.476,15.8,159.7,0.43,35,Wetland,Moderate-Highland,0.0
+2020-05-11,Simlipal Biosphere Reserve,28.8,0.484,0.667,0.307,10.8,391.7,0.19,64,Forest,Low-Lowland,49.17
+2018-04-23,Bandipur National Park,59.9,0.872,0.606,0.363,33.6,175.5,0.38,46,Forest,Moderate-Mid-altitude,100.0
+2015-12-16,Bandipur National Park,18.3,0.441,0.527,0.4,18.3,159.2,0.24,75,Shrubland,Steep-Lowland,32.28
+2017-12-10,Kaziranga National Park,39.1,0.729,0.578,0.451,34.7,155.2,0.25,83,Forest,Moderate-Highland,100.0
+2021-01-14,Bandipur National Park,45.8,0.491,0.854,0.523,38.7,144.7,0.1,45,Shrubland,Steep-Lowland,0.0
+2016-07-28,Sundarbans,24.6,0.682,0.881,0.663,36.2,2.7,0.2,79,Wetland,Steep-Lowland,8.72
+2017-04-23,Sundarbans,20.5,0.896,0.669,0.322,21.7,315.5,0.19,33,Grassland,Moderate-Highland,100.0
+2019-12-19,Simlipal Biosphere Reserve,52.8,0.858,0.848,0.637,22.7,376.7,0.3,88,Shrubland,Low-Lowland,100.0
+2021-01-23,Simlipal Biosphere Reserve,17.2,0.687,0.603,0.323,38.2,32.2,0.25,4,Wetland,Moderate-Lowland,100.0
+2021-01-28,Anamalai Tiger Reserve,39.7,0.827,0.614,0.168,38.1,64.6,0.1,61,Grassland,Low-Highland,100.0
+2020-05-30,Kanha National Park,11.0,0.346,0.775,0.543,24.0,173.2,0.44,79,Grassland,Moderate-Mid-altitude,0.0
+2023-02-09,Simlipal Biosphere Reserve,29.6,0.398,0.66,0.362,16.1,212.4,0.34,19,Wetland,Moderate-Highland,12.08
+2021-05-14,Saranda Forest,23.7,0.544,0.712,0.351,19.9,72.3,0.46,12,Wetland,Moderate-Mid-altitude,53.46
+2021-03-22,Bandipur National Park,24.1,0.723,0.543,0.345,25.5,189.0,0.44,15,Forest,Steep-Highland,100.0
+2017-09-28,Anamalai Tiger Reserve,59.6,0.227,0.71,0.353,39.7,176.4,0.28,17,Shrubland,Steep-Mid-altitude,0.0
+2019-01-28,Saranda Forest,30.5,0.31,0.704,0.411,17.2,168.6,0.11,20,Grassland,Moderate-Highland,0.0
+2018-02-17,Sundarbans,55.6,0.768,0.798,0.444,32.8,326.1,0.36,7,Grassland,Steep-Highland,91.53
+2023-07-23,Anamalai Tiger Reserve,28.7,0.254,0.524,0.37,24.8,49.0,0.15,28,Wetland,Low-Highland,0.0
+2020-11-27,Anamalai Tiger Reserve,18.2,0.485,0.696,0.504,15.9,413.5,0.19,21,Shrubland,Steep-Mid-altitude,0.0
+2021-06-23,Anamalai Tiger Reserve,25.4,0.69,0.764,0.408,39.7,296.3,0.13,40,Wetland,Steep-Highland,79.21
+2020-05-28,Melghat Forest,36.4,0.562,0.681,0.406,20.1,193.4,0.43,55,Shrubland,Low-Lowland,56.73
+2023-01-08,Kanha National Park,22.6,0.643,0.696,0.343,19.4,333.9,0.28,27,Shrubland,Low-Mid-altitude,84.99
+2017-01-19,Kanha National Park,18.6,0.834,0.745,0.332,15.7,184.4,0.3,48,Grassland,Steep-Highland,100.0
+2015-04-01,Simlipal Biosphere Reserve,30.4,0.568,0.509,0.309,16.3,199.6,0.45,83,Forest,Steep-Highland,100.0
+2023-11-07,Anamalai Tiger Reserve,43.3,0.683,0.509,0.02,37.1,364.9,0.46,18,Shrubland,Low-Mid-altitude,100.0
+2017-12-31,Anamalai Tiger Reserve,26.3,0.796,0.743,0.557,32.3,402.8,0.14,89,Wetland,Steep-Highland,100.0
+2021-10-30,Melghat Forest,39.2,0.819,0.62,0.517,23.9,68.8,0.13,8,Grassland,Low-Highland,100.0
+2016-10-29,Kaziranga National Park,19.8,0.515,0.564,0.346,27.9,84.1,0.4,64,Wetland,Moderate-Highland,77.52
+2023-08-07,Kanha National Park,14.7,0.83,0.562,0.161,31.9,6.6,0.37,75,Forest,Low-Lowland,100.0
+2023-04-17,Simlipal Biosphere Reserve,11.3,0.611,0.627,0.43,14.0,472.6,0.19,4,Grassland,Low-Mid-altitude,91.88
+2016-12-21,Bandipur National Park,38.9,0.57,0.692,0.335,25.5,382.6,0.16,66,Wetland,Moderate-Lowland,65.83
+2020-05-27,Anamalai Tiger Reserve,56.9,0.546,0.689,0.313,29.8,485.1,0.13,45,Wetland,Moderate-Mid-altitude,61.97
+2018-11-04,Saranda Forest,55.7,0.717,0.772,0.37,37.5,477.4,0.42,12,Forest,Low-Highland,86.32
+2015-04-14,Saranda Forest,48.0,0.211,0.858,0.68,10.7,421.4,0.47,10,Shrubland,Moderate-Highland,0.0
+2016-07-28,Kaziranga National Park,4.1,0.568,0.718,0.425,35.4,254.8,0.11,40,Shrubland,Moderate-Highland,48.81
+2019-07-30,Simlipal Biosphere Reserve,38.9,0.41,0.597,0.185,19.7,491.3,0.26,23,Wetland,Steep-Lowland,54.61
+2019-12-22,Simlipal Biosphere Reserve,59.0,0.624,0.578,0.391,33.8,79.3,0.2,15,Wetland,Steep-Mid-altitude,100.0
+2015-11-04,Sundarbans,17.2,0.846,0.767,0.268,18.3,201.9,0.36,12,Wetland,Steep-Lowland,100.0
+2016-03-21,Simlipal Biosphere Reserve,27.9,0.869,0.505,0.111,28.6,132.7,0.41,63,Forest,Moderate-Mid-altitude,100.0
+2017-03-07,Kaziranga National Park,40.9,0.262,0.69,0.48,35.2,88.1,0.24,71,Shrubland,Moderate-Lowland,0.0
+2022-08-29,Kaziranga National Park,21.8,0.81,0.843,0.522,13.0,312.2,0.47,58,Wetland,Moderate-Mid-altitude,89.72
+2021-01-04,Kaziranga National Park,29.1,0.203,0.587,0.425,21.6,5.2,0.45,6,Wetland,Steep-Mid-altitude,0.0
+2018-09-15,Simlipal Biosphere Reserve,19.6,0.802,0.596,0.377,23.9,160.8,0.28,74,Forest,Moderate-Lowland,100.0
+2022-11-03,Kanha National Park,24.1,0.513,0.781,0.607,22.8,376.0,0.23,94,Shrubland,Moderate-Lowland,0.0
+2023-07-21,Simlipal Biosphere Reserve,3.9,0.45,0.544,0.172,17.8,329.9,0.13,19,Shrubland,Steep-Mid-altitude,74.73
+2022-11-12,Kaziranga National Park,10.9,0.863,0.646,0.536,20.1,55.8,0.41,85,Forest,Low-Lowland,100.0
+2018-01-06,Melghat Forest,59.1,0.309,0.526,0.135,27.1,7.9,0.15,10,Shrubland,Moderate-Highland,44.5
+2017-05-22,Saranda Forest,41.5,0.658,0.542,0.156,13.2,192.7,0.49,29,Shrubland,Low-Lowland,100.0
+2015-05-11,Anamalai Tiger Reserve,36.0,0.595,0.615,0.291,31.2,72.7,0.39,58,Wetland,Moderate-Mid-altitude,93.83
+2019-11-28,Kaziranga National Park,58.6,0.498,0.894,0.431,34.6,352.4,0.38,44,Wetland,Moderate-Lowland,14.47
+2019-08-10,Simlipal Biosphere Reserve,45.1,0.557,0.758,0.442,34.1,131.6,0.19,59,Wetland,Moderate-Highland,36.39
+2022-12-16,Saranda Forest,54.4,0.345,0.523,0.413,23.9,248.4,0.27,53,Wetland,Moderate-Lowland,0.0
+2015-08-10,Anamalai Tiger Reserve,23.8,0.225,0.509,0.261,32.8,199.7,0.3,23,Grassland,Low-Lowland,0.0
+2015-11-07,Saranda Forest,14.0,0.375,0.644,0.527,35.6,214.3,0.21,98,Grassland,Steep-Lowland,0.0
+2021-02-05,Sundarbans,26.0,0.337,0.879,0.6,14.6,80.7,0.11,81,Forest,Low-Mid-altitude,0.0
+2020-06-11,Anamalai Tiger Reserve,24.7,0.418,0.76,0.366,14.4,279.5,0.33,98,Shrubland,Moderate-Highland,13.2
+2018-12-17,Bandipur National Park,2.5,0.459,0.709,0.268,16.2,317.5,0.32,0,Grassland,Moderate-Lowland,43.31
+2019-10-07,Melghat Forest,42.8,0.274,0.831,0.648,25.0,433.8,0.13,45,Shrubland,Steep-Highland,0.0
+2016-01-16,Simlipal Biosphere Reserve,10.3,0.658,0.646,0.165,32.7,168.8,0.14,59,Shrubland,Low-Lowland,100.0
+2019-05-04,Saranda Forest,13.7,0.464,0.655,0.224,19.9,225.2,0.33,5,Wetland,Moderate-Highland,55.68
+2021-12-27,Saranda Forest,29.6,0.398,0.84,0.445,34.3,230.2,0.24,56,Forest,Low-Mid-altitude,0.0
+2019-04-01,Kaziranga National Park,54.8,0.318,0.733,0.271,11.5,96.5,0.44,91,Forest,Steep-Lowland,10.17
+2020-03-21,Melghat Forest,15.4,0.844,0.806,0.623,30.2,383.6,0.26,41,Wetland,Steep-Lowland,100.0
+2015-08-16,Anamalai Tiger Reserve,33.1,0.58,0.622,0.238,14.8,171.1,0.35,93,Shrubland,Moderate-Lowland,89.06
+2017-09-03,Bandipur National Park,45.1,0.646,0.836,0.492,29.5,234.7,0.32,85,Grassland,Steep-Highland,44.77
+2018-03-09,Sundarbans,46.8,0.888,0.891,0.571,28.9,19.3,0.45,52,Shrubland,Moderate-Highland,99.06
+2022-06-05,Anamalai Tiger Reserve,32.1,0.705,0.845,0.682,10.4,202.0,0.24,29,Grassland,Moderate-Lowland,14.11
+2023-10-10,Melghat Forest,39.4,0.387,0.818,0.599,31.8,79.7,0.12,88,Forest,Low-Lowland,0.0
+2020-12-28,Sundarbans,53.1,0.713,0.551,0.195,12.5,30.3,0.14,96,Wetland,Steep-Mid-altitude,100.0
+2023-02-04,Saranda Forest,6.3,0.318,0.531,0.41,12.0,216.8,0.42,78,Wetland,Steep-Highland,0.0
+2023-02-07,Anamalai Tiger Reserve,12.5,0.574,0.619,0.284,32.8,251.1,0.46,55,Grassland,Moderate-Lowland,86.57
+2017-07-10,Simlipal Biosphere Reserve,22.6,0.633,0.873,0.612,26.5,389.4,0.16,6,Grassland,Moderate-Mid-altitude,8.05
+2016-12-31,Melghat Forest,29.5,0.698,0.588,0.377,35.9,83.7,0.38,10,Wetland,Moderate-Mid-altitude,100.0
+2015-04-29,Kanha National Park,42.6,0.413,0.69,0.433,10.8,187.5,0.21,4,Wetland,Low-Highland,0.0
+2016-01-30,Kanha National Park,52.2,0.364,0.548,0.136,31.6,164.4,0.27,92,Forest,Moderate-Mid-altitude,55.34
+2019-09-11,Anamalai Tiger Reserve,24.8,0.729,0.515,0.249,38.6,343.9,0.35,27,Grassland,Steep-Highland,100.0
+2018-08-16,Anamalai Tiger Reserve,34.0,0.723,0.855,0.381,14.9,312.2,0.12,2,Wetland,Low-Mid-altitude,72.15
+2022-02-23,Melghat Forest,57.9,0.757,0.806,0.682,38.3,483.3,0.11,3,Grassland,Steep-Lowland,60.48
+2020-08-31,Anamalai Tiger Reserve,21.2,0.814,0.778,0.558,14.7,415.6,0.45,41,Wetland,Low-Lowland,100.0
+2023-12-12,Saranda Forest,10.8,0.201,0.722,0.46,29.8,166.8,0.39,83,Forest,Low-Mid-altitude,0.0
+2019-12-12,Saranda Forest,28.8,0.868,0.838,0.709,28.6,460.6,0.14,71,Forest,Moderate-Mid-altitude,100.0
+2017-09-30,Kaziranga National Park,23.0,0.291,0.695,0.581,35.4,142.3,0.5,38,Shrubland,Low-Highland,0.0
+2022-01-04,Kaziranga National Park,37.1,0.843,0.518,0.257,18.9,44.8,0.31,94,Grassland,Moderate-Highland,100.0
+2021-02-20,Anamalai Tiger Reserve,7.5,0.896,0.702,0.488,20.1,340.5,0.25,24,Wetland,Moderate-Highland,100.0
+2019-05-06,Saranda Forest,59.4,0.647,0.506,0.155,26.5,73.5,0.18,50,Shrubland,Moderate-Lowland,100.0
+2018-01-15,Anamalai Tiger Reserve,44.3,0.264,0.535,0.413,10.5,289.4,0.5,0,Shrubland,Moderate-Lowland,0.0
+2017-10-10,Bandipur National Park,44.8,0.438,0.795,0.353,30.6,472.9,0.47,76,Grassland,Steep-Mid-altitude,19.23
+2017-11-23,Melghat Forest,57.0,0.859,0.689,0.322,36.2,338.1,0.15,97,Wetland,Low-Mid-altitude,100.0
+2019-12-27,Kanha National Park,45.2,0.485,0.849,0.483,24.7,433.4,0.26,93,Grassland,Steep-Lowland,0.55
+2015-02-18,Sundarbans,54.8,0.466,0.716,0.593,38.4,100.0,0.4,2,Shrubland,Steep-Lowland,0.0
+2020-09-09,Bandipur National Park,44.6,0.867,0.889,0.454,25.6,462.2,0.44,33,Grassland,Moderate-Lowland,94.94
+2020-12-01,Kaziranga National Park,41.1,0.661,0.675,0.399,33.5,277.1,0.32,7,Shrubland,Moderate-Lowland,94.93
+2021-04-27,Saranda Forest,53.9,0.302,0.626,0.167,15.0,200.7,0.18,22,Shrubland,Moderate-Lowland,29.41
+2022-06-14,Simlipal Biosphere Reserve,5.0,0.619,0.571,0.346,10.3,232.7,0.38,0,Shrubland,Steep-Highland,100.0
+2021-12-11,Simlipal Biosphere Reserve,47.9,0.469,0.764,0.651,38.4,134.5,0.43,64,Wetland,Steep-Highland,0.0
+2022-09-18,Sundarbans,17.1,0.255,0.736,0.578,19.1,40.4,0.25,40,Grassland,Steep-Highland,0.0
+2016-02-08,Kaziranga National Park,13.5,0.395,0.691,0.565,37.1,117.5,0.16,37,Forest,Moderate-Lowland,0.0
+2023-05-18,Melghat Forest,8.6,0.867,0.759,0.512,18.8,247.9,0.3,8,Shrubland,Low-Mid-altitude,100.0
+2022-07-13,Sundarbans,37.6,0.73,0.513,0.287,22.7,201.3,0.26,68,Wetland,Moderate-Highland,100.0
+2019-04-04,Anamalai Tiger Reserve,37.4,0.507,0.789,0.524,25.9,186.8,0.37,69,Wetland,Steep-Highland,0.0
+2023-12-20,Bandipur National Park,2.9,0.579,0.685,0.222,19.4,228.1,0.18,1,Grassland,Steep-Lowland,77.11
+2018-11-06,Melghat Forest,54.8,0.564,0.865,0.374,26.3,470.5,0.31,88,Grassland,Steep-Highland,38.7
+2019-10-11,Simlipal Biosphere Reserve,5.4,0.384,0.774,0.431,11.9,361.6,0.39,42,Forest,Moderate-Mid-altitude,0.0
+2018-06-15,Simlipal Biosphere Reserve,56.4,0.891,0.678,0.19,33.9,240.2,0.38,61,Grassland,Low-Lowland,100.0
+2023-09-01,Melghat Forest,50.4,0.338,0.677,0.286,29.1,49.6,0.27,66,Forest,Moderate-Lowland,13.3
+2016-10-12,Anamalai Tiger Reserve,28.5,0.721,0.837,0.409,19.8,307.3,0.32,10,Grassland,Low-Mid-altitude,72.9
+2015-05-24,Saranda Forest,31.8,0.755,0.7,0.332,19.2,390.3,0.19,16,Shrubland,Steep-Lowland,100.0
+2022-03-26,Simlipal Biosphere Reserve,52.3,0.333,0.757,0.291,21.4,90.8,0.25,85,Grassland,Moderate-Mid-altitude,9.01
+2022-11-21,Kaziranga National Park,11.5,0.683,0.53,0.141,10.5,49.8,0.43,19,Shrubland,Steep-Highland,100.0
+2022-04-23,Kaziranga National Park,26.4,0.231,0.608,0.296,36.5,306.9,0.36,8,Grassland,Steep-Mid-altitude,0.0
+2015-05-29,Saranda Forest,8.3,0.623,0.858,0.671,28.8,331.8,0.15,10,Forest,Steep-Mid-altitude,0.0
+2016-09-09,Melghat Forest,32.3,0.675,0.599,0.361,34.5,303.5,0.34,64,Grassland,Low-Lowland,100.0
+2017-02-13,Anamalai Tiger Reserve,43.1,0.632,0.641,0.482,39.1,375.8,0.45,26,Forest,Steep-Mid-altitude,94.34
+2023-10-24,Sundarbans,49.3,0.875,0.88,0.448,39.5,121.0,0.19,56,Grassland,Moderate-Highland,98.84
+2015-05-13,Kaziranga National Park,22.2,0.348,0.778,0.573,35.3,251.4,0.4,10,Forest,Low-Highland,0.0
+2020-01-03,Sundarbans,28.6,0.523,0.554,0.19,30.6,100.7,0.17,7,Forest,Low-Mid-altitude,91.48
+2018-10-10,Kaziranga National Park,52.2,0.332,0.813,0.34,14.2,159.0,0.37,8,Shrubland,Moderate-Mid-altitude,0.0
+2016-01-27,Simlipal Biosphere Reserve,54.3,0.672,0.597,0.202,25.8,48.4,0.42,3,Forest,Moderate-Mid-altitude,100.0
+2015-04-18,Saranda Forest,24.0,0.856,0.86,0.442,15.2,22.7,0.11,93,Shrubland,Moderate-Lowland,99.04
+2019-01-09,Simlipal Biosphere Reserve,12.0,0.506,0.708,0.498,29.2,106.1,0.13,52,Wetland,Low-Lowland,3.81
+2021-02-01,Melghat Forest,15.7,0.727,0.544,0.342,20.1,469.6,0.36,22,Forest,Steep-Highland,100.0
+2017-03-14,Bandipur National Park,1.2,0.226,0.848,0.722,17.5,394.7,0.4,16,Wetland,Low-Highland,0.0
+2019-12-16,Kaziranga National Park,15.4,0.281,0.76,0.482,22.4,340.1,0.19,29,Wetland,Low-Mid-altitude,0.0
+2019-12-04,Simlipal Biosphere Reserve,29.2,0.281,0.751,0.356,17.9,263.4,0.28,1,Grassland,Steep-Highland,0.0
+2018-04-05,Saranda Forest,35.6,0.864,0.733,0.331,24.8,47.9,0.5,96,Shrubland,Moderate-Highland,100.0
+2021-01-25,Kanha National Park,36.3,0.758,0.646,0.217,28.5,252.1,0.44,61,Forest,Steep-Lowland,100.0
+2015-11-13,Anamalai Tiger Reserve,14.8,0.787,0.863,0.477,21.6,151.5,0.13,87,Grassland,Low-Highland,80.31
+2022-05-13,Simlipal Biosphere Reserve,2.7,0.391,0.779,0.579,15.1,272.3,0.37,82,Shrubland,Moderate-Mid-altitude,0.0
+2018-01-15,Bandipur National Park,19.4,0.241,0.775,0.352,37.7,482.7,0.15,99,Grassland,Moderate-Lowland,0.0
+2023-06-17,Melghat Forest,25.3,0.858,0.529,0.202,12.4,292.6,0.2,41,Shrubland,Low-Highland,100.0
+2018-02-02,Kanha National Park,59.3,0.344,0.745,0.583,36.8,308.1,0.37,33,Shrubland,Low-Highland,0.0
+2021-07-28,Simlipal Biosphere Reserve,23.1,0.656,0.51,0.321,31.3,84.1,0.38,100,Grassland,Low-Highland,100.0
+2018-04-07,Melghat Forest,38.5,0.562,0.514,0.267,30.2,210.4,0.39,39,Grassland,Steep-Lowland,100.0
+2021-12-05,Simlipal Biosphere Reserve,37.1,0.263,0.661,0.274,27.4,476.5,0.48,0,Forest,Low-Highland,0.0
+2023-11-11,Anamalai Tiger Reserve,3.5,0.803,0.543,0.131,35.0,216.6,0.46,90,Wetland,Low-Mid-altitude,100.0
+2016-10-05,Bandipur National Park,49.2,0.399,0.845,0.649,16.0,308.9,0.31,58,Shrubland,Moderate-Lowland,0.0
+2017-05-13,Kanha National Park,32.6,0.618,0.543,0.383,39.5,42.5,0.29,91,Shrubland,Moderate-Lowland,100.0
+2020-04-01,Melghat Forest,22.2,0.398,0.572,0.393,22.5,77.0,0.23,78,Grassland,Low-Lowland,2.79
+2022-12-02,Kanha National Park,37.9,0.367,0.641,0.151,24.3,296.5,0.31,21,Forest,Moderate-Highland,44.08
+2017-08-12,Anamalai Tiger Reserve,12.7,0.898,0.849,0.566,32.9,83.2,0.36,33,Forest,Steep-Lowland,100.0
+2023-04-01,Kanha National Park,41.6,0.467,0.824,0.411,37.2,473.4,0.37,54,Grassland,Steep-Highland,13.56
+2015-10-09,Bandipur National Park,17.1,0.295,0.771,0.566,33.3,399.4,0.38,6,Wetland,Low-Mid-altitude,0.0
+2020-10-03,Sundarbans,16.2,0.894,0.506,0.357,23.6,333.7,0.11,9,Wetland,Low-Lowland,100.0
+2022-08-21,Saranda Forest,19.8,0.516,0.786,0.353,39.5,15.4,0.39,13,Shrubland,Moderate-Mid-altitude,37.64
+2022-01-31,Kaziranga National Park,43.6,0.754,0.544,0.176,13.3,393.9,0.29,93,Shrubland,Low-Mid-altitude,100.0
+2017-06-15,Bandipur National Park,13.9,0.857,0.655,0.273,11.4,45.2,0.45,27,Wetland,Moderate-Mid-altitude,100.0
+2019-01-01,Saranda Forest,27.4,0.534,0.763,0.608,20.3,206.7,0.31,38,Wetland,Moderate-Mid-altitude,0.0
+2022-08-25,Saranda Forest,46.9,0.712,0.732,0.479,31.6,1.5,0.28,71,Shrubland,Low-Lowland,92.09
+2021-12-25,Kaziranga National Park,27.1,0.21,0.855,0.554,10.0,163.5,0.36,82,Wetland,Low-Highland,0.0
+2018-10-18,Kanha National Park,47.6,0.489,0.693,0.551,13.4,238.4,0.12,45,Grassland,Low-Mid-altitude,0.0
+2015-04-25,Sundarbans,30.5,0.627,0.575,0.158,37.5,42.9,0.42,46,Shrubland,Low-Lowland,100.0
+2016-12-09,Simlipal Biosphere Reserve,30.7,0.687,0.629,0.194,10.2,485.8,0.47,52,Shrubland,Steep-Highland,100.0
+2021-05-15,Saranda Forest,33.1,0.666,0.512,0.363,37.3,86.3,0.31,28,Shrubland,Moderate-Lowland,100.0
+2020-01-01,Anamalai Tiger Reserve,34.9,0.266,0.721,0.465,19.5,165.3,0.14,16,Shrubland,Steep-Highland,0.0
+2016-05-13,Kanha National Park,33.9,0.466,0.57,0.458,15.0,438.7,0.28,66,Wetland,Low-Highland,7.14
+2019-09-03,Simlipal Biosphere Reserve,37.4,0.781,0.776,0.581,17.1,473.6,0.19,49,Shrubland,Moderate-Mid-altitude,100.0
+2021-08-10,Kanha National Park,57.3,0.277,0.669,0.356,33.2,146.3,0.43,34,Shrubland,Moderate-Highland,0.0
+2018-12-08,Saranda Forest,59.2,0.466,0.619,0.455,26.8,321.6,0.17,76,Shrubland,Steep-Lowland,6.71
+2023-05-28,Saranda Forest,20.3,0.478,0.504,0.388,27.0,105.4,0.24,59,Wetland,Moderate-Highland,77.59
+2018-04-26,Anamalai Tiger Reserve,20.8,0.557,0.802,0.57,26.8,334.7,0.4,19,Forest,Steep-Mid-altitude,0.0
+2019-03-11,Kanha National Park,20.2,0.612,0.779,0.608,29.5,305.2,0.14,83,Shrubland,Low-Lowland,2.34
+2017-03-18,Anamalai Tiger Reserve,19.6,0.6,0.622,0.477,14.0,102.3,0.13,18,Wetland,Steep-Highland,84.83
+2021-06-16,Melghat Forest,13.5,0.401,0.747,0.299,18.0,169.6,0.37,33,Forest,Moderate-Lowland,22.77
+2015-08-06,Kaziranga National Park,33.1,0.799,0.658,0.325,18.9,68.2,0.38,1,Forest,Steep-Lowland,100.0
+2021-03-17,Bandipur National Park,47.3,0.401,0.66,0.495,34.2,247.6,0.34,82,Shrubland,Low-Lowland,0.0
+2019-05-16,Anamalai Tiger Reserve,27.2,0.622,0.521,0.345,22.8,31.2,0.43,68,Shrubland,Low-Lowland,100.0
+2019-05-25,Simlipal Biosphere Reserve,16.3,0.723,0.708,0.456,25.8,313.5,0.43,34,Forest,Moderate-Highland,100.0
+2019-03-17,Kaziranga National Park,20.9,0.571,0.578,0.138,27.2,248.6,0.41,50,Forest,Moderate-Highland,98.41
+2021-07-17,Simlipal Biosphere Reserve,8.4,0.647,0.679,0.396,19.7,93.4,0.14,91,Forest,Moderate-Lowland,88.69
+2021-11-12,Bandipur National Park,48.0,0.313,0.515,0.021,28.9,203.8,0.26,83,Grassland,Steep-Highland,59.11
+2021-01-31,Anamalai Tiger Reserve,27.4,0.592,0.722,0.609,16.0,369.2,0.43,10,Wetland,Low-Highland,0.0
+2021-11-19,Simlipal Biosphere Reserve,23.9,0.394,0.573,0.354,19.0,54.8,0.39,100,Grassland,Moderate-Mid-altitude,18.26
+2022-03-03,Simlipal Biosphere Reserve,25.4,0.605,0.687,0.578,38.4,409.1,0.41,4,Wetland,Steep-Highland,24.77
+2016-09-22,Sundarbans,49.2,0.32,0.605,0.501,15.9,315.5,0.37,84,Grassland,Low-Highland,0.0
+2022-10-04,Sundarbans,23.2,0.676,0.85,0.651,20.9,275.9,0.16,47,Wetland,Low-Mid-altitude,12.56
+2016-04-11,Anamalai Tiger Reserve,40.2,0.738,0.825,0.452,19.5,431.5,0.26,29,Wetland,Low-Mid-altitude,76.68
+2023-03-06,Anamalai Tiger Reserve,43.2,0.534,0.685,0.474,35.1,20.7,0.33,70,Forest,Steep-Lowland,28.44
+2021-05-16,Anamalai Tiger Reserve,55.3,0.305,0.636,0.341,18.8,203.7,0.23,27,Forest,Moderate-Lowland,0.0
+2015-03-21,Kaziranga National Park,36.9,0.664,0.621,0.513,20.4,375.0,0.37,70,Forest,Steep-Highland,100.0
+2018-08-04,Sundarbans,57.8,0.591,0.852,0.51,28.6,184.5,0.35,48,Wetland,Low-Lowland,23.68
+2023-09-09,Anamalai Tiger Reserve,19.8,0.437,0.715,0.361,34.4,168.9,0.37,96,Grassland,Low-Lowland,21.47
+2022-10-24,Kanha National Park,18.3,0.435,0.859,0.631,24.6,29.7,0.5,62,Shrubland,Moderate-Mid-altitude,0.0
+2021-04-29,Bandipur National Park,49.4,0.264,0.545,0.132,14.5,146.2,0.38,53,Forest,Moderate-Highland,31.96
+2019-07-05,Bandipur National Park,49.5,0.266,0.565,0.308,38.6,335.2,0.15,16,Forest,Moderate-Mid-altitude,0.0
+2016-05-31,Saranda Forest,1.7,0.81,0.595,0.479,15.6,343.9,0.38,87,Grassland,Steep-Highland,100.0
+2015-08-25,Sundarbans,42.2,0.365,0.66,0.448,27.9,410.6,0.32,70,Grassland,Moderate-Mid-altitude,0.0
+2023-11-08,Kaziranga National Park,34.4,0.685,0.698,0.556,21.9,95.2,0.33,26,Forest,Steep-Highland,90.85
+2017-01-04,Kaziranga National Park,24.4,0.663,0.772,0.404,29.3,55.8,0.22,30,Grassland,Low-Lowland,70.38
+2021-04-10,Kaziranga National Park,31.4,0.848,0.6,0.326,33.4,252.9,0.28,22,Forest,Moderate-Lowland,100.0
+2022-02-07,Kanha National Park,40.7,0.361,0.689,0.225,23.5,283.7,0.47,36,Shrubland,Steep-Highland,29.31
+2019-10-19,Simlipal Biosphere Reserve,16.3,0.654,0.633,0.477,22.9,477.8,0.42,5,Wetland,Low-Lowland,100.0
+2018-09-26,Anamalai Tiger Reserve,15.1,0.731,0.852,0.686,20.7,391.4,0.31,2,Wetland,Low-Highland,27.11
+2021-06-12,Kanha National Park,3.6,0.708,0.721,0.514,17.7,140.5,0.42,12,Grassland,Low-Highland,93.72
+2021-09-21,Saranda Forest,53.8,0.787,0.856,0.645,22.8,346.8,0.18,98,Forest,Steep-Lowland,67.3
+2023-12-03,Anamalai Tiger Reserve,13.6,0.53,0.645,0.291,33.3,188.9,0.36,63,Wetland,Moderate-Mid-altitude,67.51
+2022-05-11,Bandipur National Park,3.8,0.278,0.623,0.304,29.1,151.5,0.45,8,Grassland,Steep-Highland,0.0
+2023-05-03,Melghat Forest,9.5,0.604,0.541,0.355,33.7,487.4,0.14,50,Forest,Low-Lowland,100.0
+2018-03-09,Simlipal Biosphere Reserve,54.4,0.55,0.684,0.337,27.7,490.8,0.26,59,Wetland,Low-Mid-altitude,61.38
+2022-01-31,Melghat Forest,39.4,0.571,0.609,0.407,39.0,251.4,0.3,95,Shrubland,Steep-Highland,81.19
+2017-11-06,Saranda Forest,48.8,0.5,0.699,0.248,14.0,339.2,0.1,44,Grassland,Moderate-Mid-altitude,55.88
+2015-04-22,Melghat Forest,18.2,0.328,0.691,0.589,28.9,25.3,0.24,80,Grassland,Moderate-Lowland,0.0
+2022-09-08,Sundarbans,16.7,0.64,0.81,0.457,28.1,55.0,0.21,37,Grassland,Steep-Mid-altitude,51.84
+2023-12-09,Bandipur National Park,48.3,0.504,0.862,0.677,21.6,11.1,0.3,84,Wetland,Steep-Lowland,0.0
+2019-04-12,Simlipal Biosphere Reserve,27.4,0.609,0.526,0.389,27.5,255.2,0.1,97,Wetland,Low-Highland,100.0
+2017-08-06,Anamalai Tiger Reserve,35.4,0.325,0.678,0.195,33.1,43.5,0.33,94,Grassland,Low-Highland,26.92
+2017-05-17,Bandipur National Park,52.5,0.742,0.599,0.25,33.3,87.7,0.13,84,Shrubland,Steep-Highland,100.0
+2015-02-26,Simlipal Biosphere Reserve,57.6,0.803,0.69,0.459,10.8,63.8,0.39,78,Grassland,Steep-Mid-altitude,100.0
+2018-09-19,Simlipal Biosphere Reserve,51.3,0.835,0.618,0.186,39.0,65.0,0.47,89,Forest,Steep-Highland,100.0
+2015-03-02,Anamalai Tiger Reserve,59.4,0.427,0.678,0.403,23.9,300.2,0.14,62,Grassland,Steep-Lowland,8.73
+2019-11-30,Sundarbans,46.3,0.404,0.783,0.546,14.5,411.1,0.39,20,Wetland,Steep-Lowland,0.0
+2020-06-26,Bandipur National Park,51.9,0.87,0.681,0.379,24.4,113.3,0.3,33,Forest,Moderate-Lowland,100.0
+2020-02-27,Saranda Forest,39.2,0.327,0.829,0.367,17.9,366.0,0.44,90,Forest,Moderate-Lowland,0.0
+2019-07-19,Melghat Forest,3.6,0.633,0.766,0.423,32.4,464.4,0.36,59,Shrubland,Low-Highland,61.22
+2022-03-13,Kanha National Park,41.0,0.208,0.511,0.032,24.2,276.9,0.22,33,Grassland,Steep-Highland,36.74
+2021-12-09,Anamalai Tiger Reserve,6.8,0.254,0.538,0.162,10.6,220.6,0.13,7,Wetland,Steep-Highland,24.47
+2023-02-21,Bandipur National Park,39.7,0.378,0.827,0.713,33.3,106.0,0.25,94,Grassland,Moderate-Mid-altitude,0.0
+2015-04-11,Kanha National Park,54.7,0.332,0.712,0.245,37.8,373.3,0.29,57,Forest,Steep-Mid-altitude,18.63
+2022-05-18,Sundarbans,8.3,0.283,0.559,0.084,11.9,321.1,0.19,67,Wetland,Low-Highland,41.89
+2021-11-09,Bandipur National Park,24.7,0.354,0.738,0.347,20.0,255.3,0.27,62,Wetland,Low-Mid-altitude,1.79
+2019-05-09,Kaziranga National Park,54.8,0.426,0.738,0.264,28.4,144.4,0.11,3,Wetland,Moderate-Mid-altitude,34.18
+2023-10-29,Bandipur National Park,56.9,0.769,0.546,0.428,27.2,353.0,0.47,12,Forest,Steep-Lowland,100.0
+2015-11-09,Kaziranga National Park,42.1,0.204,0.778,0.495,13.1,201.4,0.47,67,Wetland,Steep-Mid-altitude,0.0
+2016-12-13,Kanha National Park,31.8,0.228,0.791,0.298,31.3,324.2,0.45,94,Wetland,Moderate-Mid-altitude,0.0
+2016-07-13,Sundarbans,5.3,0.9,0.619,0.342,26.6,432.0,0.22,12,Shrubland,Steep-Mid-altitude,100.0
+2020-11-22,Saranda Forest,47.4,0.593,0.796,0.478,19.3,77.2,0.42,36,Shrubland,Low-Mid-altitude,36.16
+2018-04-05,Anamalai Tiger Reserve,22.1,0.47,0.707,0.403,21.1,406.2,0.4,11,Wetland,Steep-Lowland,22.04
+2023-09-19,Saranda Forest,35.9,0.78,0.783,0.288,33.8,339.9,0.23,2,Grassland,Steep-Mid-altitude,99.39
+2023-10-11,Anamalai Tiger Reserve,56.8,0.476,0.571,0.4,16.5,395.8,0.12,52,Forest,Steep-Mid-altitude,44.44
+2016-01-21,Sundarbans,25.8,0.665,0.877,0.468,15.7,65.1,0.34,71,Wetland,Moderate-Highland,48.17
+2017-09-17,Saranda Forest,54.1,0.298,0.733,0.274,17.0,473.0,0.4,43,Grassland,Low-Lowland,5.23
+2015-09-15,Kanha National Park,22.6,0.691,0.627,0.221,16.3,138.8,0.32,42,Grassland,Moderate-Lowland,100.0
+2022-01-18,Kaziranga National Park,36.1,0.449,0.898,0.613,23.0,489.5,0.45,46,Shrubland,Low-Lowland,0.0
+2022-05-30,Simlipal Biosphere Reserve,29.1,0.209,0.732,0.283,17.6,239.4,0.1,77,Grassland,Moderate-Lowland,0.0
+2017-12-01,Kaziranga National Park,51.3,0.308,0.558,0.305,35.2,74.8,0.24,72,Forest,Low-Mid-altitude,1.19
+2017-03-26,Anamalai Tiger Reserve,59.8,0.772,0.593,0.441,16.7,480.7,0.18,47,Forest,Moderate-Mid-altitude,100.0
+2018-02-04,Kanha National Park,1.4,0.254,0.854,0.616,13.2,48.9,0.29,56,Grassland,Moderate-Lowland,0.0
+2023-01-07,Bandipur National Park,6.4,0.69,0.524,0.377,11.1,58.3,0.1,96,Shrubland,Moderate-Mid-altitude,100.0
+2020-03-25,Simlipal Biosphere Reserve,4.7,0.832,0.668,0.5,29.3,341.9,0.43,84,Grassland,Moderate-Highland,100.0
+2021-05-13,Kaziranga National Park,39.9,0.394,0.535,0.434,27.6,85.5,0.46,77,Grassland,Low-Mid-altitude,0.0
+2016-11-10,Bandipur National Park,55.6,0.352,0.773,0.317,25.0,312.5,0.14,30,Forest,Moderate-Mid-altitude,7.68
+2017-05-14,Kaziranga National Park,46.9,0.235,0.587,0.229,26.1,294.4,0.48,28,Grassland,Low-Lowland,1.68
+2023-11-10,Sundarbans,33.6,0.826,0.522,0.272,25.9,386.9,0.32,9,Shrubland,Low-Highland,100.0
+2021-11-15,Anamalai Tiger Reserve,6.9,0.877,0.821,0.441,19.3,379.6,0.33,36,Shrubland,Steep-Highland,100.0
+2016-02-06,Kaziranga National Park,52.2,0.332,0.714,0.273,24.8,381.6,0.47,59,Forest,Steep-Lowland,13.38
+2017-09-05,Kanha National Park,47.1,0.645,0.607,0.314,37.7,112.8,0.43,11,Forest,Moderate-Highland,100.0
+2017-06-14,Sundarbans,54.8,0.778,0.889,0.406,34.6,8.7,0.25,9,Forest,Low-Mid-altitude,77.02
+2021-12-14,Saranda Forest,38.2,0.527,0.528,0.402,38.1,424.3,0.31,14,Shrubland,Low-Lowland,99.21
+2015-12-01,Sundarbans,57.9,0.218,0.811,0.469,36.2,463.6,0.31,1,Forest,Steep-Highland,0.0
+2017-02-03,Melghat Forest,43.5,0.459,0.601,0.219,13.7,147.4,0.43,3,Shrubland,Steep-Mid-altitude,62.83
+2023-10-10,Kanha National Park,2.0,0.695,0.794,0.316,12.8,168.0,0.18,87,Grassland,Moderate-Lowland,79.29
+2015-03-28,Saranda Forest,17.3,0.519,0.528,0.184,30.2,437.1,0.13,51,Wetland,Low-Highland,97.38
+2022-05-05,Kanha National Park,3.7,0.848,0.765,0.49,29.4,411.7,0.38,39,Grassland,Steep-Lowland,100.0
+2015-08-31,Melghat Forest,58.5,0.85,0.749,0.545,32.3,347.0,0.22,13,Wetland,Low-Highland,100.0
+2016-01-15,Simlipal Biosphere Reserve,17.1,0.408,0.807,0.499,27.8,91.3,0.26,79,Shrubland,Low-Lowland,0.0
+2022-10-12,Kanha National Park,19.4,0.781,0.529,0.108,31.6,417.4,0.17,9,Shrubland,Steep-Lowland,100.0
+2018-10-08,Kaziranga National Park,45.2,0.529,0.884,0.582,31.6,293.0,0.3,50,Wetland,Low-Highland,0.0
+2021-03-01,Kanha National Park,26.5,0.253,0.604,0.226,26.5,341.6,0.31,61,Grassland,Low-Highland,7.14
+2016-06-04,Simlipal Biosphere Reserve,23.8,0.85,0.647,0.322,38.1,308.0,0.47,75,Grassland,Low-Mid-altitude,100.0
+2019-10-09,Anamalai Tiger Reserve,23.5,0.533,0.556,0.425,14.6,280.2,0.3,34,Grassland,Steep-Highland,82.44
+2023-10-09,Kanha National Park,14.6,0.34,0.868,0.657,34.8,454.7,0.5,27,Wetland,Steep-Lowland,0.0
+2015-12-10,Simlipal Biosphere Reserve,7.1,0.282,0.778,0.414,10.8,134.5,0.26,90,Wetland,Moderate-Lowland,0.0
+2020-10-10,Anamalai Tiger Reserve,37.0,0.239,0.642,0.296,22.2,20.9,0.34,68,Shrubland,Low-Highland,0.0
+2020-02-05,Saranda Forest,24.1,0.521,0.554,0.26,22.4,119.0,0.39,44,Shrubland,Steep-Highland,88.78
+2017-12-07,Sundarbans,56.0,0.255,0.55,0.314,14.9,454.3,0.39,26,Wetland,Low-Highland,0.0
+2017-07-28,Simlipal Biosphere Reserve,9.9,0.624,0.528,0.168,14.0,129.8,0.15,14,Forest,Steep-Mid-altitude,100.0
+2017-11-28,Bandipur National Park,45.1,0.354,0.898,0.459,13.2,184.0,0.44,1,Forest,Moderate-Mid-altitude,0.0
+2016-12-23,Saranda Forest,40.8,0.411,0.503,0.309,16.4,32.1,0.4,56,Forest,Moderate-Highland,52.58
+2021-03-23,Anamalai Tiger Reserve,52.1,0.811,0.894,0.66,34.8,63.9,0.32,43,Forest,Low-Mid-altitude,64.53
+2018-05-16,Sundarbans,39.0,0.336,0.882,0.509,22.3,25.0,0.39,10,Forest,Moderate-Lowland,0.0
+2021-07-20,Kanha National Park,52.4,0.4,0.728,0.563,26.5,260.8,0.33,66,Wetland,Low-Mid-altitude,0.0
+2023-07-04,Kaziranga National Park,48.6,0.347,0.682,0.562,24.3,358.5,0.18,50,Wetland,Moderate-Mid-altitude,0.0
+2016-12-26,Melghat Forest,18.1,0.326,0.816,0.545,23.4,288.8,0.38,63,Grassland,Low-Lowland,0.0
+2021-12-02,Bandipur National Park,42.1,0.571,0.759,0.42,15.0,498.2,0.21,64,Shrubland,Steep-Mid-altitude,44.54
+2015-06-07,Kaziranga National Park,10.7,0.405,0.646,0.281,30.4,356.4,0.14,72,Grassland,Steep-Highland,33.97
+2022-05-21,Melghat Forest,32.6,0.731,0.729,0.428,34.9,239.0,0.39,87,Grassland,Moderate-Lowland,100.0
+2018-06-19,Bandipur National Park,4.6,0.871,0.684,0.253,29.1,59.3,0.14,75,Wetland,Moderate-Highland,100.0
+2020-06-23,Sundarbans,25.4,0.534,0.808,0.653,27.6,339.6,0.28,35,Forest,Moderate-Mid-altitude,0.0
+2022-08-29,Anamalai Tiger Reserve,49.5,0.398,0.757,0.637,34.9,51.8,0.49,48,Forest,Steep-Mid-altitude,0.0
+2020-10-03,Melghat Forest,33.6,0.32,0.605,0.475,18.8,275.3,0.44,81,Wetland,Moderate-Highland,0.0
+2022-05-14,Kanha National Park,9.0,0.396,0.541,0.199,38.6,43.8,0.11,74,Wetland,Low-Highland,57.6
+2023-02-18,Kaziranga National Park,20.5,0.606,0.537,0.279,21.3,296.1,0.31,17,Wetland,Moderate-Mid-altitude,100.0
+2018-09-28,Simlipal Biosphere Reserve,44.1,0.272,0.826,0.443,20.2,328.1,0.32,17,Forest,Low-Highland,0.0
+2015-02-21,Simlipal Biosphere Reserve,6.8,0.587,0.53,0.347,30.1,364.0,0.37,80,Wetland,Moderate-Highland,100.0
+2019-08-03,Simlipal Biosphere Reserve,26.7,0.893,0.592,0.224,27.7,187.0,0.3,55,Shrubland,Moderate-Lowland,100.0
+2021-04-04,Simlipal Biosphere Reserve,25.6,0.331,0.617,0.337,13.5,281.6,0.34,90,Grassland,Low-Mid-altitude,0.0
+2021-12-29,Kanha National Park,56.0,0.536,0.895,0.402,19.9,481.9,0.32,48,Wetland,Steep-Lowland,27.18
+2020-11-21,Kanha National Park,51.5,0.248,0.707,0.226,13.3,381.0,0.45,46,Wetland,Low-Lowland,4.57
+2016-08-30,Anamalai Tiger Reserve,6.2,0.322,0.645,0.285,17.5,387.8,0.3,78,Wetland,Moderate-Highland,10.28
+2017-03-05,Kanha National Park,51.6,0.863,0.577,0.258,21.7,252.7,0.49,90,Shrubland,Steep-Lowland,100.0
+2019-02-10,Saranda Forest,30.7,0.731,0.837,0.495,12.1,366.4,0.16,13,Grassland,Steep-Mid-altitude,69.01
+2022-07-27,Melghat Forest,40.5,0.328,0.695,0.477,14.4,401.8,0.23,45,Wetland,Low-Highland,0.0
+2020-09-14,Saranda Forest,48.7,0.735,0.756,0.261,13.2,454.7,0.33,75,Grassland,Steep-Mid-altitude,95.76
+2018-01-22,Kaziranga National Park,53.9,0.335,0.757,0.316,20.4,292.2,0.25,67,Grassland,Moderate-Mid-altitude,4.31
+2020-05-21,Melghat Forest,48.5,0.708,0.632,0.442,14.8,417.0,0.37,85,Grassland,Low-Mid-altitude,100.0
+2018-08-27,Saranda Forest,35.0,0.358,0.831,0.722,20.4,434.6,0.36,97,Wetland,Moderate-Highland,0.0
+2019-02-09,Melghat Forest,11.3,0.456,0.858,0.701,31.7,452.7,0.44,86,Wetland,Moderate-Highland,0.0
+2018-06-26,Sundarbans,9.1,0.58,0.635,0.209,28.1,403.4,0.23,100,Wetland,Moderate-Mid-altitude,87.09
+2017-02-26,Saranda Forest,8.8,0.425,0.632,0.375,37.0,488.7,0.48,38,Shrubland,Steep-Highland,19.46
+2021-05-29,Sundarbans,1.7,0.247,0.563,0.179,38.5,143.4,0.27,90,Wetland,Moderate-Lowland,17.71
+2020-10-13,Kanha National Park,12.4,0.291,0.853,0.586,38.7,460.5,0.38,50,Shrubland,Steep-Highland,0.0
+2015-11-07,Bandipur National Park,41.8,0.826,0.859,0.655,22.5,407.3,0.29,66,Forest,Low-Mid-altitude,83.82
+2019-06-11,Saranda Forest,46.7,0.663,0.726,0.242,17.7,357.2,0.29,27,Shrubland,Moderate-Highland,86.98
+2016-11-06,Kanha National Park,15.5,0.699,0.515,0.217,11.7,121.3,0.14,54,Grassland,Steep-Mid-altitude,100.0
+2017-09-14,Sundarbans,29.1,0.791,0.586,0.11,34.2,407.6,0.26,41,Shrubland,Moderate-Mid-altitude,100.0
+2021-08-02,Bandipur National Park,21.4,0.595,0.59,0.185,29.0,194.4,0.39,75,Wetland,Low-Lowland,100.0
+2021-11-15,Kanha National Park,43.3,0.633,0.684,0.203,31.7,242.6,0.1,48,Forest,Moderate-Highland,89.4
+2016-05-15,Kanha National Park,27.8,0.392,0.727,0.527,16.5,124.4,0.31,99,Shrubland,Moderate-Highland,0.0
+2015-04-16,Melghat Forest,12.0,0.689,0.826,0.665,27.4,493.3,0.46,44,Wetland,Steep-Mid-altitude,14.91
+2020-04-26,Sundarbans,55.5,0.707,0.68,0.473,12.5,302.4,0.19,64,Forest,Moderate-Mid-altitude,100.0
+2016-04-28,Melghat Forest,44.5,0.439,0.88,0.723,11.2,389.8,0.36,3,Forest,Low-Highland,0.0
+2015-07-13,Sundarbans,21.9,0.644,0.883,0.546,18.2,266.7,0.11,72,Wetland,Moderate-Highland,29.08
+2017-10-12,Simlipal Biosphere Reserve,7.2,0.217,0.729,0.369,11.0,217.8,0.12,80,Wetland,Moderate-Highland,0.0
+2023-07-10,Bandipur National Park,12.3,0.736,0.696,0.561,10.3,395.9,0.19,15,Forest,Steep-Lowland,100.0
+2021-10-23,Kanha National Park,38.1,0.798,0.729,0.334,12.4,386.6,0.25,24,Wetland,Low-Mid-altitude,100.0
+2021-05-14,Anamalai Tiger Reserve,9.0,0.479,0.741,0.337,17.6,366.5,0.14,12,Wetland,Low-Mid-altitude,35.15
+2021-03-21,Bandipur National Park,36.1,0.709,0.759,0.28,21.1,11.4,0.33,96,Shrubland,Moderate-Highland,89.56
+2015-02-13,Anamalai Tiger Reserve,7.4,0.506,0.506,0.243,29.5,229.7,0.16,74,Grassland,Steep-Highland,100.0
+2020-01-07,Simlipal Biosphere Reserve,38.6,0.366,0.664,0.338,18.7,99.9,0.16,68,Forest,Low-Lowland,8.59
+2022-10-22,Bandipur National Park,34.2,0.785,0.88,0.717,24.8,107.2,0.3,80,Shrubland,Steep-Mid-altitude,41.72
+2016-02-22,Saranda Forest,34.2,0.379,0.578,0.103,37.3,146.3,0.49,10,Wetland,Low-Mid-altitude,58.11
+2023-01-30,Saranda Forest,32.5,0.334,0.753,0.491,17.5,57.3,0.18,39,Forest,Moderate-Lowland,0.0
+2023-03-07,Anamalai Tiger Reserve,28.9,0.34,0.526,0.038,18.3,330.9,0.1,9,Shrubland,Steep-Mid-altitude,61.89
+2018-05-24,Bandipur National Park,19.4,0.859,0.755,0.516,26.0,130.4,0.44,53,Shrubland,Low-Highland,100.0
+2018-10-11,Anamalai Tiger Reserve,19.7,0.441,0.731,0.298,18.9,404.9,0.43,35,Grassland,Steep-Highland,33.03
+2015-01-25,Saranda Forest,3.6,0.804,0.648,0.362,17.2,63.7,0.14,63,Shrubland,Low-Highland,100.0
+2016-06-14,Bandipur National Park,41.6,0.438,0.789,0.409,23.4,80.7,0.49,69,Grassland,Steep-Lowland,7.63
+2019-11-23,Kaziranga National Park,17.9,0.252,0.699,0.315,39.5,126.3,0.26,38,Shrubland,Moderate-Highland,0.0
+2015-08-05,Bandipur National Park,23.8,0.433,0.629,0.228,20.8,36.3,0.34,43,Forest,Steep-Highland,51.12
+2022-03-29,Simlipal Biosphere Reserve,14.2,0.788,0.742,0.311,20.5,333.2,0.18,27,Forest,Moderate-Lowland,100.0
+2021-04-07,Saranda Forest,13.0,0.831,0.694,0.318,16.0,172.3,0.16,48,Forest,Steep-Mid-altitude,100.0
+2015-12-11,Melghat Forest,40.5,0.522,0.5,0.057,29.9,465.9,0.48,21,Grassland,Moderate-Lowland,100.0
+2022-04-06,Kanha National Park,16.5,0.746,0.751,0.398,20.5,234.3,0.12,65,Wetland,Moderate-Mid-altitude,98.58
+2023-09-14,Anamalai Tiger Reserve,37.2,0.835,0.598,0.143,39.6,56.3,0.11,25,Grassland,Low-Highland,100.0
+2018-02-12,Simlipal Biosphere Reserve,18.8,0.309,0.669,0.284,36.3,117.2,0.41,66,Shrubland,Steep-Lowland,6.49
+2017-11-05,Melghat Forest,39.5,0.639,0.752,0.497,26.0,346.0,0.45,3,Wetland,Low-Highland,55.69
+2022-11-26,Bandipur National Park,45.1,0.273,0.595,0.373,26.4,147.8,0.28,73,Wetland,Low-Highland,0.0
+2021-08-13,Anamalai Tiger Reserve,35.5,0.378,0.577,0.393,32.7,358.5,0.3,5,Wetland,Steep-Mid-altitude,0.0
+2020-03-13,Melghat Forest,1.6,0.802,0.645,0.472,37.5,130.3,0.47,86,Wetland,Low-Mid-altitude,100.0
+2023-07-30,Anamalai Tiger Reserve,58.7,0.257,0.739,0.578,28.7,56.5,0.33,4,Wetland,Low-Lowland,0.0
+2018-06-09,Simlipal Biosphere Reserve,7.0,0.349,0.858,0.635,13.0,64.7,0.17,47,Shrubland,Moderate-Mid-altitude,0.0
+2022-10-23,Melghat Forest,22.7,0.856,0.628,0.159,15.7,227.8,0.15,31,Grassland,Low-Lowland,100.0
+2019-09-01,Anamalai Tiger Reserve,50.7,0.863,0.578,0.268,30.9,211.1,0.31,13,Grassland,Moderate-Mid-altitude,100.0
+2016-08-07,Kanha National Park,25.9,0.48,0.541,0.151,11.4,218.9,0.14,34,Wetland,Moderate-Mid-altitude,84.36
+2015-07-25,Simlipal Biosphere Reserve,50.5,0.408,0.541,0.31,33.3,275.9,0.46,28,Grassland,Low-Lowland,42.42
+2020-05-04,Sundarbans,33.1,0.338,0.68,0.345,25.1,380.8,0.29,31,Wetland,Moderate-Mid-altitude,0.0
+2016-02-11,Kanha National Park,4.7,0.337,0.547,0.297,17.1,63.8,0.45,54,Grassland,Steep-Highland,16.0
+2016-03-22,Simlipal Biosphere Reserve,18.7,0.835,0.72,0.427,12.6,396.4,0.34,38,Forest,Low-Lowland,100.0
+2017-02-27,Sundarbans,7.4,0.469,0.819,0.47,35.1,8.1,0.44,69,Forest,Low-Lowland,0.0
+2017-12-27,Simlipal Biosphere Reserve,56.9,0.547,0.641,0.215,18.1,400.4,0.31,95,Forest,Steep-Mid-altitude,77.93
+2020-08-05,Anamalai Tiger Reserve,25.6,0.77,0.792,0.588,33.5,396.5,0.42,35,Shrubland,Moderate-Lowland,89.22
+2020-10-23,Melghat Forest,12.7,0.757,0.522,0.141,21.9,484.8,0.29,57,Shrubland,Steep-Lowland,100.0
+2022-03-26,Simlipal Biosphere Reserve,25.2,0.876,0.88,0.522,13.8,328.7,0.36,36,Grassland,Low-Highland,98.88
+2019-01-22,Simlipal Biosphere Reserve,52.8,0.576,0.807,0.486,16.0,259.6,0.14,47,Wetland,Low-Highland,28.04
+2016-12-16,Sundarbans,47.6,0.676,0.642,0.153,21.2,471.5,0.39,85,Forest,Steep-Mid-altitude,100.0
+2018-10-05,Kaziranga National Park,27.5,0.601,0.78,0.359,32.4,477.0,0.33,45,Shrubland,Low-Lowland,57.48
+2016-04-23,Kaziranga National Park,38.8,0.216,0.609,0.18,11.6,226.7,0.12,31,Wetland,Steep-Lowland,8.39
+2015-09-22,Anamalai Tiger Reserve,42.4,0.642,0.732,0.392,12.6,158.0,0.28,26,Forest,Moderate-Mid-altitude,73.53
+2018-05-21,Kaziranga National Park,21.9,0.666,0.73,0.621,16.1,434.1,0.34,58,Grassland,Low-Lowland,41.28
+2019-10-21,Sundarbans,42.6,0.511,0.846,0.424,29.6,492.8,0.35,81,Grassland,Low-Highland,20.62
+2019-03-30,Simlipal Biosphere Reserve,9.9,0.236,0.522,0.409,23.7,365.6,0.47,16,Forest,Moderate-Lowland,0.0
+2017-08-17,Kanha National Park,9.4,0.616,0.53,0.078,28.5,475.1,0.35,71,Grassland,Steep-Lowland,100.0
+2017-05-30,Melghat Forest,39.9,0.755,0.894,0.78,14.2,141.8,0.23,68,Grassland,Moderate-Mid-altitude,0.0
+2015-03-24,Simlipal Biosphere Reserve,29.6,0.683,0.824,0.511,15.7,29.8,0.13,97,Forest,Steep-Lowland,54.95
+2018-05-22,Melghat Forest,3.8,0.494,0.736,0.606,13.7,359.9,0.39,99,Wetland,Low-Highland,0.0
+2020-06-12,Melghat Forest,32.4,0.543,0.583,0.453,24.6,86.0,0.38,89,Grassland,Moderate-Highland,69.23
+2015-05-22,Anamalai Tiger Reserve,30.2,0.547,0.524,0.038,34.8,268.9,0.48,75,Grassland,Low-Lowland,100.0
+2019-01-04,Melghat Forest,56.3,0.724,0.576,0.429,14.8,171.3,0.27,56,Forest,Low-Lowland,100.0
+2023-02-04,Sundarbans,3.3,0.533,0.614,0.466,17.4,371.9,0.29,83,Wetland,Low-Lowland,45.27
+2017-11-03,Anamalai Tiger Reserve,41.0,0.429,0.682,0.216,13.2,207.5,0.15,95,Forest,Low-Lowland,45.71
+2015-11-11,Simlipal Biosphere Reserve,12.0,0.62,0.681,0.326,31.9,279.4,0.32,37,Shrubland,Low-Mid-altitude,82.82
+2020-06-27,Sundarbans,25.7,0.608,0.531,0.204,17.9,190.0,0.26,22,Shrubland,Steep-Highland,100.0
+2015-05-28,Sundarbans,34.5,0.21,0.797,0.411,21.0,67.4,0.19,46,Forest,Moderate-Mid-altitude,0.0
+2018-08-15,Melghat Forest,35.9,0.21,0.711,0.536,34.7,110.0,0.46,97,Wetland,Steep-Mid-altitude,0.0
+2022-10-31,Saranda Forest,32.8,0.485,0.554,0.176,22.7,162.6,0.26,38,Wetland,Moderate-Highland,81.75
+2023-11-15,Melghat Forest,44.2,0.44,0.548,0.08,33.6,104.4,0.44,32,Shrubland,Low-Lowland,76.92
+2023-07-08,Kanha National Park,18.1,0.882,0.51,0.21,29.5,11.6,0.14,57,Shrubland,Low-Highland,100.0
+2018-08-26,Kanha National Park,20.2,0.743,0.763,0.583,33.9,64.3,0.3,61,Wetland,Steep-Highland,88.89
+2020-10-14,Kaziranga National Park,19.3,0.846,0.566,0.34,10.3,117.7,0.41,83,Grassland,Low-Mid-altitude,100.0
+2023-12-25,Kaziranga National Park,25.4,0.862,0.615,0.364,18.6,466.8,0.4,69,Forest,Moderate-Highland,100.0
+2022-07-09,Anamalai Tiger Reserve,16.2,0.415,0.61,0.197,39.6,184.2,0.11,14,Grassland,Moderate-Mid-altitude,52.78
+2020-10-01,Anamalai Tiger Reserve,28.6,0.36,0.738,0.41,16.9,436.9,0.25,91,Forest,Steep-Lowland,0.0
+2023-05-27,Melghat Forest,57.5,0.43,0.785,0.444,26.8,393.3,0.18,8,Forest,Low-Mid-altitude,0.0
+2018-03-25,Kaziranga National Park,20.9,0.583,0.511,0.387,15.1,407.4,0.15,76,Forest,Low-Mid-altitude,100.0
+2020-07-04,Simlipal Biosphere Reserve,43.7,0.729,0.625,0.226,15.5,302.6,0.42,25,Shrubland,Low-Highland,100.0
+2017-06-16,Simlipal Biosphere Reserve,37.9,0.353,0.617,0.22,19.5,132.5,0.5,43,Grassland,Low-Highland,33.5
+2016-04-10,Melghat Forest,27.3,0.387,0.808,0.327,25.8,186.9,0.48,75,Shrubland,Steep-Mid-altitude,12.47
+2019-01-16,Kaziranga National Park,11.4,0.562,0.757,0.44,26.8,36.1,0.16,84,Forest,Low-Highland,38.49
+2016-11-08,Melghat Forest,33.5,0.415,0.861,0.722,24.2,158.0,0.2,99,Grassland,Moderate-Lowland,0.0
+2023-12-25,Melghat Forest,56.8,0.523,0.74,0.482,14.6,186.8,0.38,99,Grassland,Low-Mid-altitude,15.89
+2019-04-26,Anamalai Tiger Reserve,16.1,0.643,0.817,0.337,12.2,448.6,0.4,84,Forest,Moderate-Highland,63.75
+2023-09-10,Bandipur National Park,17.9,0.271,0.785,0.612,29.2,346.2,0.43,42,Forest,Moderate-Highland,0.0
+2023-05-13,Anamalai Tiger Reserve,24.6,0.705,0.571,0.304,33.2,206.0,0.36,31,Forest,Moderate-Mid-altitude,100.0
+2023-10-29,Saranda Forest,28.8,0.897,0.503,0.198,27.6,375.7,0.14,12,Shrubland,Moderate-Lowland,100.0
+2020-11-15,Sundarbans,2.1,0.688,0.566,0.144,21.7,420.6,0.17,85,Grassland,Moderate-Lowland,100.0
+2021-09-05,Kaziranga National Park,1.3,0.633,0.679,0.482,15.3,399.1,0.3,29,Wetland,Moderate-Highland,76.65
+2018-02-26,Kanha National Park,51.4,0.802,0.604,0.108,23.1,212.5,0.28,1,Forest,Low-Highland,100.0
+2022-07-01,Bandipur National Park,46.8,0.782,0.68,0.475,39.5,207.3,0.49,90,Wetland,Moderate-Highland,100.0
+2019-10-12,Sundarbans,50.3,0.385,0.629,0.175,33.8,233.6,0.47,43,Wetland,Moderate-Lowland,46.26
+2015-06-24,Kaziranga National Park,57.5,0.856,0.604,0.336,11.3,315.6,0.16,37,Grassland,Low-Lowland,100.0
+2015-03-02,Kaziranga National Park,59.2,0.667,0.599,0.246,23.3,300.5,0.17,26,Shrubland,Moderate-Highland,100.0
+2020-08-04,Kaziranga National Park,51.0,0.745,0.62,0.468,17.2,362.1,0.49,58,Forest,Steep-Highland,100.0
+2022-09-23,Saranda Forest,34.0,0.66,0.632,0.216,19.5,451.3,0.39,78,Grassland,Low-Highland,100.0
+2021-01-14,Bandipur National Park,50.1,0.264,0.595,0.1,24.1,419.6,0.34,19,Forest,Moderate-Lowland,33.13
+2017-02-28,Melghat Forest,39.8,0.413,0.616,0.253,24.6,429.4,0.12,98,Forest,Low-Highland,44.08
+2016-02-01,Melghat Forest,14.0,0.354,0.81,0.697,33.3,74.3,0.24,31,Forest,Low-Mid-altitude,0.0
+2019-12-22,Saranda Forest,43.6,0.431,0.588,0.181,24.0,347.0,0.35,41,Shrubland,Low-Highland,61.43
+2023-12-13,Saranda Forest,5.2,0.787,0.577,0.376,12.6,57.9,0.49,61,Forest,Moderate-Highland,100.0
+2023-12-14,Anamalai Tiger Reserve,38.7,0.484,0.588,0.115,19.9,428.1,0.27,7,Wetland,Steep-Lowland,78.01
+2018-05-05,Anamalai Tiger Reserve,40.7,0.278,0.639,0.272,15.3,108.2,0.38,25,Grassland,Moderate-Mid-altitude,1.63
+2022-06-15,Melghat Forest,12.0,0.816,0.613,0.254,35.0,358.9,0.26,76,Shrubland,Steep-Lowland,100.0
+2020-06-23,Kanha National Park,49.6,0.788,0.551,0.154,22.2,250.0,0.27,40,Wetland,Steep-Lowland,100.0
+2020-11-30,Kaziranga National Park,33.5,0.735,0.753,0.401,38.9,170.6,0.33,66,Wetland,Low-Lowland,94.89
+2018-10-06,Anamalai Tiger Reserve,11.8,0.568,0.513,0.382,16.3,355.8,0.34,12,Grassland,Steep-Lowland,100.0
+2018-06-18,Kanha National Park,18.3,0.648,0.795,0.678,12.6,244.0,0.37,37,Wetland,Steep-Lowland,0.0
+2015-09-22,Anamalai Tiger Reserve,45.7,0.514,0.837,0.475,12.9,286.3,0.33,47,Grassland,Moderate-Highland,10.77
+2019-07-08,Saranda Forest,27.4,0.733,0.64,0.245,38.4,377.7,0.25,56,Forest,Low-Mid-altitude,100.0
+2021-06-12,Anamalai Tiger Reserve,39.2,0.455,0.516,0.017,35.6,111.1,0.15,68,Forest,Moderate-Lowland,87.78
+2023-05-28,Simlipal Biosphere Reserve,26.6,0.221,0.851,0.603,16.6,418.4,0.33,54,Forest,Low-Highland,0.0
+2016-05-23,Simlipal Biosphere Reserve,7.1,0.332,0.837,0.42,25.4,262.1,0.21,51,Forest,Steep-Mid-altitude,0.0
+2020-10-20,Sundarbans,25.3,0.721,0.699,0.526,35.2,341.9,0.23,75,Grassland,Low-Lowland,100.0
+2023-08-08,Kanha National Park,33.5,0.832,0.783,0.463,35.2,363.7,0.27,91,Shrubland,Steep-Lowland,100.0
+2020-07-19,Kaziranga National Park,15.6,0.789,0.857,0.622,24.0,46.9,0.38,37,Wetland,Moderate-Highland,71.06
+2021-04-18,Kanha National Park,4.4,0.46,0.836,0.48,38.3,104.5,0.38,66,Forest,Steep-Lowland,0.0
+2019-07-04,Kaziranga National Park,20.4,0.461,0.896,0.622,15.4,319.7,0.48,88,Shrubland,Low-Highland,0.0
+2021-07-18,Kaziranga National Park,1.9,0.375,0.844,0.52,22.3,442.9,0.18,62,Forest,Steep-Lowland,0.0
+2021-10-02,Simlipal Biosphere Reserve,29.1,0.888,0.834,0.375,13.6,360.5,0.47,20,Wetland,Steep-Lowland,100.0
+2022-12-23,Simlipal Biosphere Reserve,16.1,0.798,0.702,0.29,28.6,230.1,0.45,62,Shrubland,Low-Lowland,100.0
+2018-03-25,Anamalai Tiger Reserve,34.5,0.655,0.549,0.122,36.9,230.5,0.28,11,Shrubland,Moderate-Highland,100.0
+2022-11-08,Anamalai Tiger Reserve,37.9,0.891,0.846,0.368,11.7,77.0,0.3,81,Forest,Steep-Mid-altitude,100.0
+2022-01-20,Sundarbans,22.7,0.673,0.595,0.433,21.6,442.8,0.25,25,Wetland,Steep-Highland,100.0
+2018-07-02,Kanha National Park,5.4,0.25,0.573,0.294,37.7,272.5,0.34,7,Grassland,Steep-Mid-altitude,0.0
+2017-10-20,Anamalai Tiger Reserve,51.0,0.453,0.693,0.285,27.7,476.0,0.4,5,Forest,Low-Highland,41.18
+2023-02-01,Simlipal Biosphere Reserve,57.7,0.561,0.84,0.656,24.1,383.0,0.43,68,Grassland,Low-Highland,0.0
+2016-09-24,Bandipur National Park,39.1,0.347,0.874,0.667,15.4,471.5,0.26,65,Grassland,Low-Lowland,0.0
+2023-10-05,Saranda Forest,23.4,0.654,0.538,0.374,17.9,480.6,0.21,6,Shrubland,Low-Mid-altitude,100.0
+2017-10-13,Sundarbans,35.9,0.589,0.736,0.348,12.7,407.8,0.29,54,Wetland,Moderate-Mid-altitude,62.11
+2016-06-18,Kanha National Park,45.7,0.884,0.671,0.39,29.6,133.0,0.28,52,Grassland,Moderate-Highland,100.0
+2023-08-31,Anamalai Tiger Reserve,4.3,0.507,0.755,0.384,26.6,14.8,0.41,60,Grassland,Steep-Highland,33.15
+2018-01-20,Sundarbans,18.5,0.63,0.751,0.467,15.3,139.1,0.1,1,Grassland,Moderate-Lowland,57.39
+2017-09-08,Simlipal Biosphere Reserve,20.3,0.626,0.747,0.314,35.6,490.9,0.16,40,Forest,Moderate-Lowland,72.06
+2018-04-30,Melghat Forest,25.8,0.432,0.76,0.454,28.9,100.9,0.24,41,Wetland,Steep-Lowland,0.0
+2018-04-25,Simlipal Biosphere Reserve,40.6,0.389,0.883,0.625,24.5,430.4,0.26,11,Grassland,Steep-Lowland,0.0
+2017-04-24,Kanha National Park,17.3,0.573,0.884,0.784,19.5,307.7,0.19,76,Shrubland,Low-Highland,0.0
+2023-11-12,Melghat Forest,6.6,0.237,0.856,0.412,22.7,3.1,0.32,74,Grassland,Low-Mid-altitude,0.0
+2022-07-10,Kanha National Park,38.6,0.412,0.759,0.55,22.8,423.9,0.48,39,Forest,Moderate-Highland,0.0
+2023-02-22,Kaziranga National Park,52.8,0.634,0.633,0.203,31.1,295.3,0.15,29,Wetland,Low-Mid-altitude,100.0
+2017-02-24,Bandipur National Park,47.5,0.321,0.815,0.378,26.9,379.0,0.23,57,Grassland,Low-Highland,0.0
+2020-12-15,Melghat Forest,18.9,0.795,0.873,0.685,39.6,472.8,0.36,51,Wetland,Low-Highland,58.51
+2015-01-25,Saranda Forest,1.3,0.47,0.509,0.265,32.1,79.0,0.26,10,Wetland,Steep-Lowland,84.02
+2017-06-25,Anamalai Tiger Reserve,29.9,0.233,0.765,0.434,36.2,52.0,0.32,35,Grassland,Steep-Lowland,0.0
+2018-09-03,Melghat Forest,8.4,0.437,0.846,0.469,32.4,354.8,0.2,29,Grassland,Low-Highland,0.0
+2020-09-17,Bandipur National Park,26.8,0.785,0.579,0.102,35.6,421.2,0.41,22,Wetland,Moderate-Lowland,100.0
+2017-10-09,Kaziranga National Park,41.2,0.776,0.852,0.534,15.9,32.9,0.49,30,Shrubland,Low-Lowland,76.1
+2019-07-01,Bandipur National Park,26.1,0.461,0.588,0.436,36.5,22.8,0.12,85,Wetland,Low-Lowland,16.45
+2018-06-16,Bandipur National Park,18.0,0.401,0.807,0.5,31.0,266.6,0.49,49,Forest,Moderate-Lowland,0.0
+2021-05-24,Bandipur National Park,8.4,0.682,0.565,0.367,24.3,315.6,0.18,75,Grassland,Steep-Highland,100.0
+2018-01-23,Simlipal Biosphere Reserve,32.4,0.703,0.847,0.647,33.0,179.3,0.46,30,Wetland,Low-Lowland,28.0
+2015-10-22,Kanha National Park,10.3,0.518,0.809,0.676,13.6,235.5,0.46,87,Grassland,Steep-Highland,0.0
+2015-05-28,Kanha National Park,44.6,0.706,0.639,0.279,33.7,493.5,0.2,22,Wetland,Steep-Mid-altitude,100.0
+2020-12-30,Simlipal Biosphere Reserve,24.6,0.469,0.852,0.435,17.9,90.9,0.33,64,Wetland,Steep-Highland,8.15
+2017-12-13,Kaziranga National Park,50.4,0.781,0.899,0.504,23.5,470.3,0.18,27,Forest,Low-Lowland,70.13
+2021-08-25,Simlipal Biosphere Reserve,40.2,0.711,0.813,0.33,18.5,498.8,0.44,20,Grassland,Steep-Mid-altitude,78.88
+2016-12-10,Sundarbans,10.5,0.418,0.82,0.656,19.7,43.1,0.22,63,Grassland,Moderate-Mid-altitude,0.0
+2021-10-15,Melghat Forest,35.2,0.436,0.729,0.591,13.1,19.9,0.29,29,Grassland,Moderate-Highland,0.0
+2022-01-05,Melghat Forest,47.1,0.205,0.575,0.292,31.1,189.8,0.36,27,Shrubland,Moderate-Lowland,0.0
+2020-08-12,Saranda Forest,57.3,0.234,0.709,0.256,36.8,65.8,0.13,47,Forest,Low-Lowland,0.0
+2021-12-11,Sundarbans,34.3,0.302,0.895,0.603,38.2,286.4,0.11,63,Forest,Low-Highland,0.0
+2021-02-22,Anamalai Tiger Reserve,55.2,0.218,0.631,0.38,33.6,289.9,0.37,91,Grassland,Steep-Lowland,0.0
+2023-04-20,Sundarbans,14.1,0.602,0.754,0.408,39.5,173.1,0.39,50,Forest,Low-Highland,56.07
+2021-04-16,Sundarbans,28.8,0.838,0.629,0.487,16.4,66.3,0.21,98,Grassland,Steep-Highland,100.0
+2018-06-18,Anamalai Tiger Reserve,42.6,0.573,0.793,0.58,20.2,207.5,0.34,74,Grassland,Low-Highland,0.0
+2018-01-15,Simlipal Biosphere Reserve,33.9,0.296,0.717,0.593,34.1,164.2,0.23,45,Shrubland,Moderate-Highland,0.0
+2018-12-31,Saranda Forest,20.4,0.864,0.646,0.418,33.2,490.5,0.34,59,Shrubland,Steep-Mid-altitude,100.0
+2017-11-18,Simlipal Biosphere Reserve,24.8,0.807,0.794,0.59,40.0,288.1,0.29,94,Forest,Steep-Mid-altitude,100.0
+2021-01-02,Kanha National Park,49.2,0.286,0.543,0.115,39.1,144.9,0.3,23,Shrubland,Moderate-Highland,39.95
+2019-01-15,Sundarbans,4.8,0.545,0.654,0.293,12.7,386.0,0.48,66,Grassland,Low-Mid-altitude,69.81
+2015-05-23,Kaziranga National Park,44.9,0.453,0.788,0.597,21.3,331.9,0.12,89,Wetland,Steep-Highland,0.0
+2022-02-26,Anamalai Tiger Reserve,5.3,0.424,0.592,0.356,39.6,108.9,0.28,71,Forest,Low-Mid-altitude,28.81
+2021-06-11,Anamalai Tiger Reserve,33.0,0.576,0.782,0.354,33.3,300.6,0.25,13,Wetland,Moderate-Lowland,51.87
+2023-11-04,Kanha National Park,7.6,0.413,0.556,0.097,36.8,57.5,0.17,94,Grassland,Moderate-Lowland,68.85
+2023-04-22,Anamalai Tiger Reserve,14.2,0.489,0.87,0.395,23.9,357.2,0.31,15,Forest,Low-Mid-altitude,19.79
+2015-07-14,Anamalai Tiger Reserve,8.3,0.628,0.71,0.536,31.7,380.0,0.23,40,Shrubland,Steep-Mid-altitude,52.87
+2019-10-17,Sundarbans,49.3,0.513,0.567,0.214,14.1,38.4,0.15,23,Grassland,Moderate-Highland,84.7
+2022-05-10,Kaziranga National Park,23.8,0.537,0.746,0.361,33.6,20.5,0.25,75,Grassland,Moderate-Lowland,45.71
+2015-12-28,Anamalai Tiger Reserve,44.2,0.689,0.598,0.163,35.6,39.8,0.26,26,Wetland,Low-Highland,100.0
+2016-05-23,Saranda Forest,46.2,0.623,0.605,0.275,32.0,483.7,0.48,87,Shrubland,Steep-Mid-altitude,100.0
