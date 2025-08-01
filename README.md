@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Bachelor Degree In Computer Engineering**
 
-- 📫 How to reach me **mayureshkhare@gmail.com**
+- 📫 How to reach me **mayureshkhare34@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
