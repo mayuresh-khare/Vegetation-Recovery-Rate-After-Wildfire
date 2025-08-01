@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayuresh-khare&label=Profile%20views&color=0e75b6&style=flat" alt="mayuresh-khare" /> </p>
 
-- 🌱 I’m currently learning **BE Computer**
+- 🌱 I’m currently learning **Bachelor Degree In Computer Engineering**
 
 - 📫 How to reach me **mayureshkhare@gmail.com**
   
